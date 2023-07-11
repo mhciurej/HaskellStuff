@@ -1,0 +1,12 @@
+/Users/mhciurej/.ghcup/ghc/9.0.2/lib/ghc-9.0.2/lib/x86_64-osx-ghc-9.0.2/rts-1.0.2/include/ghcversion.h:
+  hash: 3b6c0f16983344ce12525816947d892da98bc96f17a664531494f515b9356c81
+/Users/mhciurej/Exercism/Haskell/grains/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/autogen/Paths_grains.hs:
+  hash: d5d3ade5a01ba82dd0cdc8d34921ff55d649de79081f0e802615c2b5b021b476
+/Users/mhciurej/Exercism/Haskell/grains/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/autogen/cabal_macros.h:
+  hash: 735de0c41d248521b518917bb273bf409172faa0e4c0f987e432b03155bba708
+/Users/mhciurej/Exercism/Haskell/grains/grains.cabal:
+  hash: bde5a0faf41dcaa8b1247d507f6f3619e2b498140638496ff75b3623726e2b99
+/Users/mhciurej/Exercism/Haskell/grains/package.yaml:
+  hash: 54fb9dc6a6d17fad2e098f0f1c0958a01eb19217110896d17c6fe87d478c027e
+/Users/mhciurej/Exercism/Haskell/grains/src/Grains.hs:
+  hash: 2e04d0aa2122f05f1925c300df09bbc292a5f97e401313f73ca4adc609a9778c

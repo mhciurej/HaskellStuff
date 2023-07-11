@@ -1,0 +1,12 @@
+/Users/mhciurej/.ghcup/ghc/9.0.2/lib/ghc-9.0.2/lib/x86_64-osx-ghc-9.0.2/rts-1.0.2/include/ghcversion.h:
+  hash: 3b6c0f16983344ce12525816947d892da98bc96f17a664531494f515b9356c81
+/Users/mhciurej/Exercism/Haskell/space-age/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/autogen/Paths_space_age.hs:
+  hash: ecd9c5abc4b9e73f3720e70d79b6ab610709f30ce3400fa4f6616891c0522ab0
+/Users/mhciurej/Exercism/Haskell/space-age/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/autogen/cabal_macros.h:
+  hash: dc257dbe49e5b1c1cb9f08f445adbd82c95ee5bf5f11fd7c21382acbb5bfb075
+/Users/mhciurej/Exercism/Haskell/space-age/package.yaml:
+  hash: d8dbdf4247d1f13fc1acdd3b68d702ceb46403e97b81ac10decfe16dc11cdfee
+/Users/mhciurej/Exercism/Haskell/space-age/space-age.cabal:
+  hash: 2fce33e5e44e93b29d73169be55b138d677661d5b5030983682abfcb276d0460
+/Users/mhciurej/Exercism/Haskell/space-age/src/SpaceAge.hs:
+  hash: a688f6d46d26b813fbc92315ee4cb4e2d38fc46397945344c440a264d1e8e76e

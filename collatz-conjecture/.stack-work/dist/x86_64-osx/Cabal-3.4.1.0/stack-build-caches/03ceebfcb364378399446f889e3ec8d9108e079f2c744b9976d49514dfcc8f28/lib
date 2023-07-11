@@ -1,0 +1,12 @@
+/Users/mhciurej/.stack/programs/x86_64-osx/ghc-9.0.2/lib/ghc-9.0.2/lib/x86_64-osx-ghc-9.0.2/rts-1.0.2/include/ghcversion.h:
+  hash: 3b6c0f16983344ce12525816947d892da98bc96f17a664531494f515b9356c81
+? /Users/mhciurej/Exercism/Haskell/collatz-conjecture/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/autogen/Paths_collatz_conjecture.hs
+: hash: 31c1fc48d775e8b5635e6397d20dd95f450739300b55091cd325a778127efac9
+/Users/mhciurej/Exercism/Haskell/collatz-conjecture/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/autogen/cabal_macros.h:
+  hash: 03c251f7b3365dbf68df75f588452231b39defc72cf7416af14ea8c850a33c20
+/Users/mhciurej/Exercism/Haskell/collatz-conjecture/collatz-conjecture.cabal:
+  hash: 698d79548e4f9c49091de831585487078c31b3cc057f476d6adcbda801a6b9e9
+/Users/mhciurej/Exercism/Haskell/collatz-conjecture/package.yaml:
+  hash: e04e546810251e29e1b3a5bae523e047724b2e3b36899b4d241b93721a71f1a4
+/Users/mhciurej/Exercism/Haskell/collatz-conjecture/src/CollatzConjecture.hs:
+  hash: 157f49ab2ae55f0c8b65cd68ad51cd77c2075b52e74a2ab3e823ce8bbba02a70

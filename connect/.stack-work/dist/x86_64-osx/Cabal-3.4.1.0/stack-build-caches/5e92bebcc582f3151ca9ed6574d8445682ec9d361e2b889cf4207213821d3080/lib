@@ -1,0 +1,12 @@
+/Users/mhciurej/.ghcup/ghc/9.0.2/lib/ghc-9.0.2/lib/x86_64-osx-ghc-9.0.2/rts-1.0.2/include/ghcversion.h:
+  hash: 3b6c0f16983344ce12525816947d892da98bc96f17a664531494f515b9356c81
+/Users/mhciurej/Exercism/Haskell/connect/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/autogen/Paths_connect.hs:
+  hash: 009d5e2a431b39f22a465e6729e43b042b848c7c4a53c7237260caa3ca94627c
+/Users/mhciurej/Exercism/Haskell/connect/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/autogen/cabal_macros.h:
+  hash: a2b98f7c1958126aef7bdbbd8d0228c21e5496cb2a8d2463836c7601e01a0da6
+/Users/mhciurej/Exercism/Haskell/connect/connect.cabal:
+  hash: 256968c5667d7dc195bde0fae08a1bf504d6cd6309a41c04e541b5aa6d9b2d4e
+/Users/mhciurej/Exercism/Haskell/connect/package.yaml:
+  hash: 8ada4ff644304bc977c1ed1d530c496350219d27d1d29d1ffdc387884a0b70f2
+/Users/mhciurej/Exercism/Haskell/connect/src/Connect.hs:
+  hash: 55272e4fd8e6eca9071214992780afa799596d3358973563ca9088fa32d92ea2

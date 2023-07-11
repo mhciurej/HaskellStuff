@@ -1,0 +1,12 @@
+/Users/mhciurej/.ghcup/ghc/9.0.2/lib/ghc-9.0.2/lib/x86_64-osx-ghc-9.0.2/rts-1.0.2/include/ghcversion.h:
+  hash: 3b6c0f16983344ce12525816947d892da98bc96f17a664531494f515b9356c81
+/Users/mhciurej/Exercism/Haskell/luhn/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/test/autogen/Paths_luhn.hs:
+  hash: 3ff9f55094720412f5cedbf2e2190eb85dc4313691e0eee38cad0f48146bc617
+/Users/mhciurej/Exercism/Haskell/luhn/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/test/autogen/cabal_macros.h:
+  hash: 6ea24acd484e946d7e87a4e1576a22a4dc1dd16cf141e6048c6f49d32b4a571d
+/Users/mhciurej/Exercism/Haskell/luhn/luhn.cabal:
+  hash: de51bae7fd9f8b0985eedd92782c4ddcd25c7e0d46854d6471b0defa315bd79e
+/Users/mhciurej/Exercism/Haskell/luhn/package.yaml:
+  hash: 27d882b43e86024813dd5f129d5b684114604885a57e6f38e14ccf9a1113b053
+/Users/mhciurej/Exercism/Haskell/luhn/test/Tests.hs:
+  hash: 6b0ba5b132217d21858a1dbb7a2c11838ffdc2fc8bc0c4e9ce983af203d2e10c

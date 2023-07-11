@@ -1,0 +1,12 @@
+/Users/mhciurej/.ghcup/ghc/9.0.2/lib/ghc-9.0.2/lib/x86_64-osx-ghc-9.0.2/rts-1.0.2/include/ghcversion.h:
+  hash: 3b6c0f16983344ce12525816947d892da98bc96f17a664531494f515b9356c81
+/Users/mhciurej/Exercism/Haskell/minesweeper/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/test/autogen/Paths_minesweeper.hs:
+  hash: 8c9e42a72026781bb5dda1054fcf53124b44998536fbd8e8ee40fb783d28b961
+/Users/mhciurej/Exercism/Haskell/minesweeper/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/test/autogen/cabal_macros.h:
+  hash: ee86794b3e8eb457274db4906db858e4d23d8da1b0db1c8db8b91fd5fb130b2a
+/Users/mhciurej/Exercism/Haskell/minesweeper/minesweeper.cabal:
+  hash: 82e48a13845979cc624f491fea83c2aaf21afcafac74519207f2dfa1be1ea688
+/Users/mhciurej/Exercism/Haskell/minesweeper/package.yaml:
+  hash: a6b2790931acac64c04183ac95a0a82ca8cdb8cf06292e4ba84ede0e6ae1154b
+/Users/mhciurej/Exercism/Haskell/minesweeper/test/Tests.hs:
+  hash: 50808e7b8fb003ab7545fb9317accf7ad8f90680b4aaff437915d3d2719a25a5

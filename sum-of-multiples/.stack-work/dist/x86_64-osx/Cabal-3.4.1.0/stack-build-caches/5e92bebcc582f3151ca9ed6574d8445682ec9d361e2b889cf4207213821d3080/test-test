@@ -1,0 +1,12 @@
+/Users/mhciurej/.ghcup/ghc/9.0.2/lib/ghc-9.0.2/lib/x86_64-osx-ghc-9.0.2/rts-1.0.2/include/ghcversion.h:
+  hash: 3b6c0f16983344ce12525816947d892da98bc96f17a664531494f515b9356c81
+? /Users/mhciurej/Exercism/Haskell/sum-of-multiples/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/test/autogen/Paths_sum_of_multiples.hs
+: hash: 77539a4390f36612a6f56fdd4ddb447a4dd5fdc638708246bb508d9ad67b39c5
+/Users/mhciurej/Exercism/Haskell/sum-of-multiples/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/test/autogen/cabal_macros.h:
+  hash: 9670b2e4d3b6528d47e8435c601fff201a647da7b4e0498ce5f4db91eea6cee8
+/Users/mhciurej/Exercism/Haskell/sum-of-multiples/package.yaml:
+  hash: 6cfc820af1522e2e8241ee4a83483cf6ef2d4cbb6aa7bfaeaea133023b96cef6
+/Users/mhciurej/Exercism/Haskell/sum-of-multiples/sum-of-multiples.cabal:
+  hash: 1cacbadda7d86a6ec86e5c7ba003afb0fb4f7ce449f7ca32689dd45858555e07
+/Users/mhciurej/Exercism/Haskell/sum-of-multiples/test/Tests.hs:
+  hash: 8d4d192ace547c98578fca215e3317e748f3dbb4f23d5a91f4f4d44dcdce3fce

@@ -1,0 +1,12 @@
+/Users/mhciurej/.ghcup/ghc/9.0.2/lib/ghc-9.0.2/lib/x86_64-osx-ghc-9.0.2/rts-1.0.2/include/ghcversion.h:
+  hash: 3b6c0f16983344ce12525816947d892da98bc96f17a664531494f515b9356c81
+? /Users/mhciurej/Exercism/Haskell/complex-numbers/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/autogen/Paths_complex_numbers.hs
+: hash: 1ee45ec0bef11145d5ea928b77698f5abae97eaf8883e889da5d5669edda8fcb
+/Users/mhciurej/Exercism/Haskell/complex-numbers/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/autogen/cabal_macros.h:
+  hash: 82dfc6fb645fac07afcfc6aa7d638e6fc902abff7ad65f2f629ff1fc30a7d315
+/Users/mhciurej/Exercism/Haskell/complex-numbers/complex-numbers.cabal:
+  hash: a2626afebe9585a7dc3ac8d871847c20d4b1182b4adca1aca2661e0d58a900c8
+/Users/mhciurej/Exercism/Haskell/complex-numbers/package.yaml:
+  hash: 9a77c74349135f9ecb3a3f8ae4d46385d9a229b634d344c1c8b44919723285e5
+/Users/mhciurej/Exercism/Haskell/complex-numbers/src/ComplexNumbers.hs:
+  hash: 6c2362d41476c97d8f4d0a1130e4b81eb15bc1a15178d24eb775ea0410d0ee30

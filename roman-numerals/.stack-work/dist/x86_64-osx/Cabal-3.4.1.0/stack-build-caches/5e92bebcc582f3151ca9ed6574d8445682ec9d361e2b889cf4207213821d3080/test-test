@@ -1,0 +1,12 @@
+/Users/mhciurej/.ghcup/ghc/9.0.2/lib/ghc-9.0.2/lib/x86_64-osx-ghc-9.0.2/rts-1.0.2/include/ghcversion.h:
+  hash: 3b6c0f16983344ce12525816947d892da98bc96f17a664531494f515b9356c81
+? /Users/mhciurej/Exercism/Haskell/roman-numerals/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/test/autogen/Paths_roman_numerals.hs
+: hash: d41ea43258af6baa344f0a36e61f9373d36724f3ac77bb85d4b49aa71ab0c214
+/Users/mhciurej/Exercism/Haskell/roman-numerals/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/test/autogen/cabal_macros.h:
+  hash: 4a6c222d064643e7d7db7a21b86995337f8762b0df3f1c7a0db679ba5f0d339c
+/Users/mhciurej/Exercism/Haskell/roman-numerals/package.yaml:
+  hash: 3aeadf19f350f94a604f769feb918ca7e8fff53fe86e0dd10d7587e5999622f0
+/Users/mhciurej/Exercism/Haskell/roman-numerals/roman-numerals.cabal:
+  hash: e21d5b7079a4968bc582a6043ec7f6f0b07746138f8513d57fb79c82f07046ae
+/Users/mhciurej/Exercism/Haskell/roman-numerals/test/Tests.hs:
+  hash: bbc6bf8745ca6f94c92a106f7ef6af43c2858008fa5d79cfed26776f307a3d9c

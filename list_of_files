@@ -1,0 +1,448 @@
+acronym> test (suite: test)
+
+
+acronym> Test suite test failed
+Test suite failure for package acronym-1.7.0.11
+    test:  exited with: ExitFailure 1
+Logs printed to console
+
+allergies> test (suite: test)
+
+
+allergies> Test suite test passed
+alphametics> test (suite: test)
+
+
+alphametics> Test suite test failed
+Test suite failure for package alphametics-1.3.0.6
+    test:  exited with: ExitFailure 1
+Logs printed to console
+
+anagram> test (suite: test)
+
+
+anagram> Test suite test passed
+armstrong-numbers> test (suite: test)
+
+
+armstrong-numbers> Test suite test passed
+Progress 0/2: atbash-cipher                           atbash-cipher> build (lib + test)
+Progress 0/2: atbash-cipher                           Preprocessing library for atbash-cipher-1.2.0.7..
+Progress 0/2: atbash-cipher                           Building library for atbash-cipher-1.2.0.7..
+Progress 0/2: atbash-cipher                           [1 of 2] Compiling Atbash
+Progress 0/2: atbash-cipher                           
+Progress 0/2: atbash-cipher                           /Users/mhciurej/Exercism/Haskell/atbash-cipher/src/Atbash.hs:4:115: error: parse error on input ‘)’
+Progress 0/2: atbash-cipher                             |
+Progress 0/2: atbash-cipher                           4 | decode cipherText = foldr (\elem acc -> first(hd([(a, b) | (a, b) <- zip ['a'..'z'] reverse(['a'..'z']), a == elem))) ""
+Progress 0/2: atbash-cipher                             |                                                                                                                   ^
+Progress 0/2: atbash-cipher                           Progress 1/2
+
+--  While building package atbash-cipher-1.2.0.7 (scroll up to its section to see the error) using:
+      /Users/mhciurej/.stack/setup-exe-cache/x86_64-osx/Cabal-simple_mPHDZzAJ_3.4.1.0_ghc-9.0.2 --verbose=1 --builddir=.stack-work/dist/x86_64-osx/Cabal-3.4.1.0 build lib:atbash-cipher test:test --ghc-options ""
+    Process exited with code: ExitFailure 1
+bank-account> test (suite: test)
+
+
+bank-account> Test suite test failed
+Test suite failure for package bank-account-0.1.0.4
+    test:  exited with: ExitFailure 1
+Logs printed to console
+
+Progress 0/2            beer-song> build (lib + test)
+Progress 0/2            Preprocessing library for beer-song-0.1.0.3..
+Progress 0/2            Building library for beer-song-0.1.0.3..
+Progress 0/2            [1 of 2] Compiling Beer
+Progress 0/2            
+Progress 0/2            /Users/mhciurej/Exercism/Haskell/beer-song/src/Beer.hs:10:78: error:
+Progress 0/2                lexical error in string/character literal at character '\n'
+Progress 0/2               |
+Progress 0/2            10 |        \Take one down and pass it around, 98 bottles of beer on the wall.\n\"
+Progress 0/2               |                                                                              ^
+Progress 0/2            Progress 1/2
+
+--  While building package beer-song-0.1.0.3 (scroll up to its section to see the error) using:
+      /Users/mhciurej/.stack/setup-exe-cache/x86_64-osx/Cabal-simple_mPHDZzAJ_3.4.1.0_ghc-9.0.2 --verbose=1 --builddir=.stack-work/dist/x86_64-osx/Cabal-3.4.1.0 build lib:beer-song test:test --ghc-options ""
+    Process exited with code: ExitFailure 1
+bob> test (suite: test)
+
+
+bob> Test suite test passed
+exercism-clock> test (suite: test)
+
+
+exercism-clock> Test suite test passed
+collatz-conjecture> test (suite: test)
+
+
+collatz-conjecture> Test suite test passed
+complex-numbers> test (suite: test)
+
+
+complex-numbers> Test suite test passed
+connect> test (suite: test)
+
+
+connect> Test suite test failed
+Test suite failure for package connect-1.1.0.6
+    test:  exited with: ExitFailure 1
+Logs printed to console
+
+Progress 0/2            custom-set> build (lib + test)
+Progress 0/2            Preprocessing library for custom-set-1.3.0.6..
+Progress 0/2            Building library for custom-set-1.3.0.6..
+Progress 0/2            [1 of 2] Compiling CustomSet
+Progress 0/2            
+Progress 0/2            /Users/mhciurej/Exercism/Haskell/custom-set/src/CustomSet.hs:45:40: error:
+Progress 0/2                • No instance for (Ord a) arising from a use of ‘deleteFrom’
+Progress 0/2                  Possible fix:
+Progress 0/2                    add (Ord a) to the context of
+Progress 0/2                      the type signature for:
+Progress 0/2                        delete :: forall a. a -> CustomSet a -> CustomSet a
+Progress 0/2                • In the second argument of ‘($)’, namely ‘deleteFrom x set’
+Progress 0/2                  In the expression: CustomSet $ deleteFrom x set
+Progress 0/2                  In an equation for ‘delete’:
+Progress 0/2                      delete x (CustomSet set) = CustomSet $ deleteFrom x set
+Progress 0/2               |
+Progress 0/2            45 | delete x (CustomSet set) = CustomSet $ deleteFrom x set
+Progress 0/2               |                                        ^^^^^^^^^^
+Progress 0/2            Progress 1/2
+
+--  While building package custom-set-1.3.0.6 (scroll up to its section to see the error) using:
+      /Users/mhciurej/.stack/setup-exe-cache/x86_64-osx/Cabal-simple_mPHDZzAJ_3.6.3.0_ghc-9.2.7 --verbose=1 --builddir=.stack-work/dist/x86_64-osx/Cabal-3.6.3.0 build lib:custom-set test:test --ghc-options ""
+    Process exited with code: ExitFailure 1
+diamond> test (suite: test)
+
+
+diamond> Test suite test passed
+Progress 0/2: dominoes                      dominoes> build (lib + test)
+Progress 0/2: dominoes                      Preprocessing library for dominoes-2.1.0.9..
+Progress 0/2: dominoes                      Building library for dominoes-2.1.0.9..
+Progress 0/2: dominoes                      [1 of 2] Compiling Dominoes
+Progress 0/2: dominoes                      
+Progress 0/2: dominoes                      /Users/mhciurej/Exercism/Haskell/dominoes/src/Dominoes.hs:3:1: error:
+Progress 0/2: dominoes                          Could not load module ‘Data.Map’
+Progress 0/2: dominoes                          It is a member of the hidden package ‘containers-0.6.4.1’.
+Progress 0/2: dominoes                          Perhaps you need to add ‘containers’ to the build-depends in your .cabal file.
+Progress 0/2: dominoes                          Use -v (or `:set -v` in ghci) to see a list of the files searched for.
+Progress 0/2: dominoes                        |
+Progress 0/2: dominoes                      3 | import qualified Data.Map as Map
+Progress 0/2: dominoes                        | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Progress 0/2: dominoes                      
+Progress 0/2: dominoes                      /Users/mhciurej/Exercism/Haskell/dominoes/src/Dominoes.hs:4:1: error:
+Progress 0/2: dominoes                          Could not load module ‘Data.Map’
+Progress 0/2: dominoes                          It is a member of the hidden package ‘containers-0.6.4.1’.
+Progress 0/2: dominoes                          Perhaps you need to add ‘containers’ to the build-depends in your .cabal file.
+Progress 0/2: dominoes                          Use -v (or `:set -v` in ghci) to see a list of the files searched for.
+Progress 0/2: dominoes                        |
+Progress 0/2: dominoes                      4 | import           Data.Map (Map)
+Progress 0/2: dominoes                        | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Progress 0/2: dominoes                      Progress 1/2
+
+--  While building package dominoes-2.1.0.9 (scroll up to its section to see the error) using:
+      /Users/mhciurej/.stack/setup-exe-cache/x86_64-osx/Cabal-simple_mPHDZzAJ_3.4.1.0_ghc-9.0.2 --verbose=1 --builddir=.stack-work/dist/x86_64-osx/Cabal-3.4.1.0 build lib:dominoes test:test --ghc-options ""
+    Process exited with code: ExitFailure 1
+forth> test (suite: test)
+
+
+forth> Test suite test failed
+Test suite failure for package forth-1.7.1.13
+    test:  exited with: ExitFailure 1
+Logs printed to console
+
+grains> test (suite: test)
+
+
+grains> Test suite test passed
+hamming> test (suite: test)
+
+
+hamming> Test suite test passed
+hello-world> test (suite: test)
+
+
+hello-world> Test suite test passed
+isbn-verifier> test (suite: test)
+
+
+isbn-verifier> Test suite test failed
+Test suite failure for package isbn-verifier-2.7.0.9
+    test:  exited with: ExitFailure 1
+Logs printed to console
+
+Progress 0/2: linked-list                         linked-list> build (lib + test)
+Progress 0/2: linked-list                         Preprocessing library for linked-list-0.1.0.3..
+Progress 0/2: linked-list                         Building library for linked-list-0.1.0.3..
+Progress 0/2: linked-list                         [1 of 2] Compiling Deque
+Progress 0/2: linked-list                         
+Progress 0/2: linked-list                         /Users/mhciurej/Exercism/Haskell/linked-list/src/Deque.hs:15:19: error:
+Progress 0/2: linked-list                             • Couldn't match type ‘Deque a’ with ‘()’
+Progress 0/2: linked-list                               Expected: IO ()
+Progress 0/2: linked-list                                 Actual: IO (Deque a)
+Progress 0/2: linked-list                             • In the expression: return (Node x Empty Empty)
+Progress 0/2: linked-list                               In an equation for ‘unshift’:
+Progress 0/2: linked-list                                   unshift Empty x = return (Node x Empty Empty)
+Progress 0/2: linked-list                             • Relevant bindings include
+Progress 0/2: linked-list                                 x :: a (bound at src/Deque.hs:15:15)
+Progress 0/2: linked-list                                 unshift :: Deque a -> a -> IO () (bound at src/Deque.hs:15:1)
+Progress 0/2: linked-list                            |
+Progress 0/2: linked-list                         15 | unshift Empty x = return (Node x Empty Empty)
+Progress 0/2: linked-list                            |                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Progress 0/2: linked-list                         Progress 1/2
+
+--  While building package linked-list-0.1.0.3 (scroll up to its section to see the error) using:
+      /Users/mhciurej/.stack/setup-exe-cache/x86_64-osx/Cabal-simple_mPHDZzAJ_3.4.1.0_ghc-9.0.2 --verbose=1 --builddir=.stack-work/dist/x86_64-osx/Cabal-3.4.1.0 build lib:linked-list test:test --ghc-options ""
+    Process exited with code: ExitFailure 1
+list-ops> test (suite: test)
+
+
+list-ops> Test suite test passed
+lucians-luscious-lasagna> test (suite: test)
+
+
+lucians-luscious-lasagna> Test suite test passed
+luhn> test (suite: test)
+
+
+luhn> Test suite test failed
+Test suite failure for package luhn-1.7.0.7
+    test:  exited with: ExitFailure 1
+Logs printed to console
+
+matching-brackets> test (suite: test)
+
+
+matching-brackets> Test suite test passed
+matrix> test (suite: test)
+
+
+matrix> Test suite test passed
+minesweeper> test (suite: test)
+
+
+minesweeper> Test suite test passed
+nth-prime> test (suite: test)
+
+
+nth-prime> Test suite test passed
+nucleotide-count> test (suite: test)
+
+
+nucleotide-count> Test suite test passed
+ocr-numbers> test (suite: test)
+
+
+ocr-numbers> Test suite test failed
+Test suite failure for package ocr-numbers-1.2.0.6
+    test:  exited with: ExitFailure 1
+Logs printed to console
+
+pangram> test (suite: test)
+
+
+pangram> Test suite test passed
+pascals-triangle> test (suite: test)
+
+
+pascals-triangle> Test suite test passed
+phone-number> test (suite: test)
+
+
+phone-number> Test suite test failed
+Test suite failure for package phone-number-1.6.1.8
+    test:  exited with: ExitFailure 1
+Logs printed to console
+
+poker> test (suite: test)
+
+
+poker> Test suite test failed
+Test suite failure for package poker-1.1.0.2
+    test:  exited with: ExitFailure 1
+Logs printed to console
+
+pov> test (suite: test)
+
+
+pov> Test suite test failed
+Test suite failure for package pov-1.3.0.7
+    test:  exited with: ExitFailure 1
+Logs printed to console
+
+protein-translation> test (suite: test)
+
+
+protein-translation> Test suite test passed
+Progress 0/2            proverb> build (lib + test)
+Progress 0/2            Preprocessing library for proverb-1.1.0.2..
+Progress 0/2            Building library for proverb-1.1.0.2..
+Progress 0/2            [2 of 2] Compiling Proverb
+Progress 0/2            
+Progress 0/2            /Users/mhciurej/Exercism/Haskell/proverb/src/Proverb.hs:4:18: error:
+Progress 0/2                • Couldn't match type ‘[Char]’ with ‘Char’
+Progress 0/2                  Expected: String
+Progress 0/2                    Actual: [String]
+Progress 0/2                • In the expression: reverse $ foldl sentence [] (comb (x : xs))
+Progress 0/2                  In an equation for ‘recite’:
+Progress 0/2                      recite (x : xs)
+Progress 0/2                        = (reverse $ foldl sentence [] (comb (x : xs)))
+Progress 0/2                        where
+Progress 0/2                            comb :: [String] -> [(String, String)]
+Progress 0/2                            comb (a : ab) = zip (a : ab) (ab ++ [a])
+Progress 0/2                            sentence :: [String] -> [(String, String)] -> [String]
+Progress 0/2                            sentence acc [] = acc
+Progress 0/2                            sentence acc [(_, second)]
+Progress 0/2                              = ("And all for the want of a " ++ second ++ ".") : acc
+Progress 0/2                            sentence acc ((first, second) : xs)
+Progress 0/2                              = ("For want of a " ++ first ++ " the " ++ second ++ " was lost.")
+Progress 0/2                                  : acc
+Progress 0/2              |
+Progress 0/2            4 | recite (x:xs) = (reverse $ foldl sentence [] (comb (x:xs)))
+Progress 0/2              |                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Progress 0/2            
+Progress 0/2            /Users/mhciurej/Exercism/Haskell/proverb/src/Proverb.hs:4:47: error:
+Progress 0/2                • Couldn't match type: (String, String)
+Progress 0/2                                 with: [(String, String)]
+Progress 0/2                  Expected: [[(String, String)]]
+Progress 0/2                    Actual: [(String, String)]
+Progress 0/2                • In the third argument of ‘foldl’, namely ‘(comb (x : xs))’
+Progress 0/2                  In the second argument of ‘($)’, namely
+Progress 0/2                    ‘foldl sentence [] (comb (x : xs))’
+Progress 0/2                  In the expression: reverse $ foldl sentence [] (comb (x : xs))
+Progress 0/2              |
+Progress 0/2            4 | recite (x:xs) = (reverse $ foldl sentence [] (comb (x:xs)))
+Progress 0/2              |                                               ^^^^^^^^^^^
+Progress 0/2            Progress 1/2
+
+--  While building package proverb-1.1.0.2 (scroll up to its section to see the error) using:
+      /Users/mhciurej/.stack/setup-exe-cache/x86_64-osx/Cabal-simple_mPHDZzAJ_3.4.1.0_ghc-9.0.2 --verbose=1 --builddir=.stack-work/dist/x86_64-osx/Cabal-3.4.1.0 build lib:proverb test:test --ghc-options ""
+    Process exited with code: ExitFailure 1
+pythagorean-triplet> test (suite: test)
+
+
+pythagorean-triplet> Test suite test passed
+queen-attack> test (suite: test)
+
+
+queen-attack> Test suite test passed
+rail-fence-cipher> test (suite: test)
+
+
+rail-fence-cipher> Test suite test failed
+Test suite failure for package rail-fence-cipher-1.1.0.4
+    test:  exited with: ExitFailure 1
+Logs printed to console
+
+raindrops> test (suite: test)
+
+
+raindrops> Test suite test passed
+resistor-color-duo> test (suite: test)
+
+
+resistor-color-duo> Test suite test passed
+resistor-color-trio> test (suite: test)
+
+
+resistor-color-trio> Test suite test failed
+Test suite failure for package resistor-color-trio-1.0.0.0
+    test:  exited with: ExitFailure 1
+Logs printed to console
+
+rna-transcription> test (suite: test)
+
+
+rna-transcription> Test suite test passed
+robot-simulator> test (suite: test)
+
+
+robot-simulator> Test suite test passed
+roman-numerals> test (suite: test)
+
+
+roman-numerals> Test suite test passed
+saddle-points> test (suite: test)
+
+
+saddle-points> Test suite test failed
+Test suite failure for package saddle-points-1.5.0.8
+    test:  exited with: ExitFailure 1
+Logs printed to console
+
+scrabble-score> test (suite: test)
+
+
+scrabble-score> Test suite test passed
+secret-handshake> test (suite: test)
+
+
+secret-handshake> Test suite test failed
+Test suite failure for package secret-handshake-1.2.0.6
+    test:  exited with: ExitFailure 1
+Logs printed to console
+
+series> test (suite: test)
+
+
+series> Test suite test passed
+sieve> test (suite: test)
+
+
+sieve> Test suite test passed
+simple-linked-list> test (suite: test)
+
+
+simple-linked-list> Test suite test passed
+space-age> test (suite: test)
+
+
+space-age> Test suite test passed
+spiral-matrix> test (suite: test)
+
+
+spiral-matrix> Test suite test failed
+Test suite failure for package spiral-matrix-1.1.0.3
+    test:  exited with: ExitFailure 1
+Logs printed to console
+
+Progress 0/2            sublist> build (lib + test)
+Progress 0/2            Preprocessing library for sublist-1.1.0.6..
+Progress 0/2            Building library for sublist-1.1.0.6..
+Progress 0/2            [2 of 2] Compiling Sublist
+Progress 0/2            
+Progress 0/2            /Users/mhciurej/Exercism/Haskell/sublist/src/Sublist.hs:16:5: error: parse error on input ‘|’
+Progress 0/2               |
+Progress 0/2            16 |     | areListsEqual (x:xs) (y:ys) = Just EQ
+Progress 0/2               |     ^
+Progress 0/2            Progress 1/2
+
+--  While building package sublist-1.1.0.6 (scroll up to its section to see the error) using:
+      /Users/mhciurej/.stack/setup-exe-cache/x86_64-osx/Cabal-simple_mPHDZzAJ_3.4.1.0_ghc-9.0.2 --verbose=1 --builddir=.stack-work/dist/x86_64-osx/Cabal-3.4.1.0 build lib:sublist test:test --ghc-options ""
+    Process exited with code: ExitFailure 1
+sum-of-multiples> test (suite: test)
+
+
+sum-of-multiples> Test suite test passed
+triangle> test (suite: test)
+
+
+triangle> Test suite test passed
+twelve-days> test (suite: test)
+
+
+twelve-days> Test suite test passed
+word-count> test (suite: test)
+
+
+word-count> Test suite test passed
+Progress 0/2            yacht> build (lib + test)
+Progress 0/2            Preprocessing library for yacht-1.2.0.0..
+Progress 0/2            Building library for yacht-1.2.0.0..
+Progress 0/2            [2 of 2] Compiling Yacht
+Progress 0/2            
+Progress 0/2            /Users/mhciurej/Exercism/Haskell/yacht/src/Yacht.hs:22:1: error:
+Progress 0/2                parse error (possibly incorrect indentation or mismatched brackets)
+Progress 0/2            Progress 1/2
+
+--  While building package yacht-1.2.0.0 (scroll up to its section to see the error) using:
+      /Users/mhciurej/.stack/setup-exe-cache/x86_64-osx/Cabal-simple_mPHDZzAJ_3.4.1.0_ghc-9.0.2 --verbose=1 --builddir=.stack-work/dist/x86_64-osx/Cabal-3.4.1.0 build lib:yacht test:test --ghc-options ""
+    Process exited with code: ExitFailure 1

@@ -1,0 +1,12 @@
+/Users/mhciurej/.ghcup/ghc/9.0.2/lib/ghc-9.0.2/lib/x86_64-osx-ghc-9.0.2/rts-1.0.2/include/ghcversion.h:
+  hash: 3b6c0f16983344ce12525816947d892da98bc96f17a664531494f515b9356c81
+/Users/mhciurej/Exercism/Haskell/alphametics/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/test/autogen/Paths_alphametics.hs:
+  hash: bf280ddd17529eef33df9b38df520fc96e05e93e6669433e4372e4ed573d75c0
+/Users/mhciurej/Exercism/Haskell/alphametics/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/test/autogen/cabal_macros.h:
+  hash: 495242b169fcba3c565033cd7f48c26589a3f3dcab50fc236d8893f0077b8e55
+/Users/mhciurej/Exercism/Haskell/alphametics/alphametics.cabal:
+  hash: 1906fd613339bdb15cf3a420041f6eecaf2d31dbf5fd2e66264d018e111a4557
+/Users/mhciurej/Exercism/Haskell/alphametics/package.yaml:
+  hash: ba73faa693709d9aae869551ba2503eee6ef4586b9e8420bd62e584e200aae58
+/Users/mhciurej/Exercism/Haskell/alphametics/test/Tests.hs:
+  hash: d5a9861cf979a313d0b26c813584a9a637bad7d9acc4ba51be28cb6b1f812ae4

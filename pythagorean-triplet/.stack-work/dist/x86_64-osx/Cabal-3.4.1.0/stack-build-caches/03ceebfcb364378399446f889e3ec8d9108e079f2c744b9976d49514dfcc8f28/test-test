@@ -1,0 +1,12 @@
+/Users/mhciurej/.stack/programs/x86_64-osx/ghc-9.0.2/lib/ghc-9.0.2/lib/x86_64-osx-ghc-9.0.2/rts-1.0.2/include/ghcversion.h:
+  hash: 3b6c0f16983344ce12525816947d892da98bc96f17a664531494f515b9356c81
+? /Users/mhciurej/Exercism/Haskell/pythagorean-triplet/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/test/autogen/Paths_pythagorean_triplet.hs
+: hash: 68e3b434bd6307180b0c7f8c7538c175007b5daa0c7450e3b20c6221fd53d6c6
+/Users/mhciurej/Exercism/Haskell/pythagorean-triplet/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/test/autogen/cabal_macros.h:
+  hash: 6d7df5324f61145403b6c48556d507291ba94d92064986e5a005c047da81cc91
+/Users/mhciurej/Exercism/Haskell/pythagorean-triplet/package.yaml:
+  hash: e75a57d17b4e5f12109d050a2c48b6aac361d981185030902fe0ba8f948a184b
+/Users/mhciurej/Exercism/Haskell/pythagorean-triplet/pythagorean-triplet.cabal:
+  hash: 163060c39b74e63d192c118a1b94d70c5deef7ca5d704bb247198c9eac4e0ef8
+/Users/mhciurej/Exercism/Haskell/pythagorean-triplet/test/Tests.hs:
+  hash: 735c6be1af6f3b1e5f3f671e94f5d18e5acff066d03651f6094314a126cc341e

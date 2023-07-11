@@ -1,0 +1,12 @@
+/Users/mhciurej/.ghcup/ghc/9.2.7/lib/ghc-9.2.7/lib/x86_64-osx-ghc-9.2.7/rts-1.0.2/include/ghcversion.h:
+  hash: 33b3e1b0047b6cca48a29d69ecd33f64042e571e70747f1155f402ea75f33a9f
+? /Users/mhciurej/Exercism/Haskell/binary-search-tree/.stack-work/dist/x86_64-osx/Cabal-3.6.3.0/build/autogen/Paths_binary_search_tree.hs
+: hash: 9a5c335b68373cbab40e5f6670641104ad2fa969dd4d4766ce273ffa68148e86
+/Users/mhciurej/Exercism/Haskell/binary-search-tree/.stack-work/dist/x86_64-osx/Cabal-3.6.3.0/build/autogen/cabal_macros.h:
+  hash: bb36c6e0f95817691d75e08678dbd81480374f6e166dd3e4debbf5996dffb14d
+/Users/mhciurej/Exercism/Haskell/binary-search-tree/binary-search-tree.cabal:
+  hash: 863c4a15b448ecd0dbbdf196668891c0ac97ba5e675fbb8cb94493aec0ccc5c9
+/Users/mhciurej/Exercism/Haskell/binary-search-tree/package.yaml:
+  hash: 5c5e9a0397ff1b1f45a8d504369b9d03ae118add8e4138e7d7dc9c0f9cffb354
+/Users/mhciurej/Exercism/Haskell/binary-search-tree/src/BST.hs:
+  hash: 18fd071b412f15ee1e59fba085fca40c107f29046a3f624d03ad2fb5fc4c0984

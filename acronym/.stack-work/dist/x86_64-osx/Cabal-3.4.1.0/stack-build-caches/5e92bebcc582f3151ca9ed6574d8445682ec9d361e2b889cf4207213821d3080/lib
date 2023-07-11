@@ -1,0 +1,12 @@
+/Users/mhciurej/.ghcup/ghc/9.0.2/lib/ghc-9.0.2/lib/x86_64-osx-ghc-9.0.2/rts-1.0.2/include/ghcversion.h:
+  hash: 3b6c0f16983344ce12525816947d892da98bc96f17a664531494f515b9356c81
+/Users/mhciurej/Exercism/Haskell/acronym/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/autogen/Paths_acronym.hs:
+  hash: c712532f9ce8b13fdfce1f1ba82202576ba4d15485205cb61b79792e626c502f
+/Users/mhciurej/Exercism/Haskell/acronym/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/autogen/cabal_macros.h:
+  hash: bd5b74c0b9028b8c7da3e31d700f1fea381175cd6674755aecca89d4e7608e0d
+/Users/mhciurej/Exercism/Haskell/acronym/acronym.cabal:
+  hash: 26f022752ed3b11ea60348d4abbab92c2c5f7ab7fcd52236b0b374798b7a4605
+/Users/mhciurej/Exercism/Haskell/acronym/package.yaml:
+  hash: a622efb5cfb142291548aab57e4a5a2b2a40c429706268897b1d63cbc9c686d0
+/Users/mhciurej/Exercism/Haskell/acronym/src/Acronym.hs:
+  hash: 50bbb2d7a741bc6e0f17ab2afdd926bce29af5cb16592ee1b8a8f82274c51bb3

@@ -1,0 +1,12 @@
+/Users/mhciurej/.ghcup/ghc/9.0.2/lib/ghc-9.0.2/lib/x86_64-osx-ghc-9.0.2/rts-1.0.2/include/ghcversion.h:
+  hash: 3b6c0f16983344ce12525816947d892da98bc96f17a664531494f515b9356c81
+? /Users/mhciurej/Exercism/Haskell/all-your-base/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/test/autogen/Paths_all_your_base.hs
+: hash: bbdcab7d61fd2f996b4bd01a1d0dbb487b78619bb43fbb7c58199aa798e11027
+/Users/mhciurej/Exercism/Haskell/all-your-base/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/test/autogen/cabal_macros.h:
+  hash: 39fae4ff7a4fcc106c4b46944b134973d6964f43f9a7c5713f010f4f068a8fea
+/Users/mhciurej/Exercism/Haskell/all-your-base/all-your-base.cabal:
+  hash: d82c50d707fbac35cf637a43998008dfb51e2f61df2a17e43e12af656f646e5d
+/Users/mhciurej/Exercism/Haskell/all-your-base/package.yaml:
+  hash: ef1d1540b825fa1092c6a23c82023c7e00f0fcef9c3e2c3f7bcce84badde1e2a
+/Users/mhciurej/Exercism/Haskell/all-your-base/test/Tests.hs:
+  hash: 317e822a1614230596d167ae90b35af9451f95a4b34cf9a9847cd8bbf5cb87c6

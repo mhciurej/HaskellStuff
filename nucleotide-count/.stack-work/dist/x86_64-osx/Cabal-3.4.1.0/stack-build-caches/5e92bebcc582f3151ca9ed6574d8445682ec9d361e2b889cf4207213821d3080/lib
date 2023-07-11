@@ -1,0 +1,12 @@
+/Users/mhciurej/.ghcup/ghc/9.0.2/lib/ghc-9.0.2/lib/x86_64-osx-ghc-9.0.2/rts-1.0.2/include/ghcversion.h:
+  hash: 3b6c0f16983344ce12525816947d892da98bc96f17a664531494f515b9356c81
+? /Users/mhciurej/Exercism/Haskell/nucleotide-count/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/autogen/Paths_nucleotide_count.hs
+: hash: decdd1521eb7ca8be31d4e64ffb0374598acfffac469c933ad3ca91c60e5588e
+/Users/mhciurej/Exercism/Haskell/nucleotide-count/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/autogen/cabal_macros.h:
+  hash: e6c6f87fc10af9446ccb73959c859f008fc802d90815a6e72b05603c73bb8bdc
+/Users/mhciurej/Exercism/Haskell/nucleotide-count/nucleotide-count.cabal:
+  hash: 30bf1f2571b59c9f972daf759074c31a2c3e2c0b148e9fa7fa3723d2656825cf
+/Users/mhciurej/Exercism/Haskell/nucleotide-count/package.yaml:
+  hash: a9addd79532906f9ac795239d06df65176d38dadf35821e65efed3b7d93b19da
+/Users/mhciurej/Exercism/Haskell/nucleotide-count/src/DNA.hs:
+  hash: 5d6f2061ffcdcd33af61aeb39945732f3f391f64f0ae5e9f6f48c588696aec08

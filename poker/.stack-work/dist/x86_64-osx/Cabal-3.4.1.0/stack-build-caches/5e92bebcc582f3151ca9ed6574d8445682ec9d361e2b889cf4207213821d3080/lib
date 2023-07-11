@@ -1,0 +1,12 @@
+/Users/mhciurej/.ghcup/ghc/9.0.2/lib/ghc-9.0.2/lib/x86_64-osx-ghc-9.0.2/rts-1.0.2/include/ghcversion.h:
+  hash: 3b6c0f16983344ce12525816947d892da98bc96f17a664531494f515b9356c81
+/Users/mhciurej/Exercism/Haskell/poker/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/autogen/Paths_poker.hs:
+  hash: 3efbe83ae86f65fadce650c0e53fcbcee4e8a8bd3ee35b4fc9ec39605dfb7501
+/Users/mhciurej/Exercism/Haskell/poker/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/autogen/cabal_macros.h:
+  hash: 2393f39f3880d2f86a3a81d30edeba425c42283898082600995395aa98d2fd0e
+/Users/mhciurej/Exercism/Haskell/poker/package.yaml:
+  hash: 726bfa75e4dc20444a6959cf530320a879c046a6e31df4803fa124226c9119f1
+/Users/mhciurej/Exercism/Haskell/poker/poker.cabal:
+  hash: fbc93a1be580d52e4ad1d897f398ae766e21b9843817c778b1e58ac0f25c9f68
+/Users/mhciurej/Exercism/Haskell/poker/src/Poker.hs:
+  hash: 51d149df36709903b3a5e909e86f523b2c42d26d270cd76d485c13f935f7d06c

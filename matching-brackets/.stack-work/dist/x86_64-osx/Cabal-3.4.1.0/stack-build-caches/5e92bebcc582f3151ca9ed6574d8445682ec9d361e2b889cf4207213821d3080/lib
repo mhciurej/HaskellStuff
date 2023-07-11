@@ -1,0 +1,12 @@
+/Users/mhciurej/.ghcup/ghc/9.0.2/lib/ghc-9.0.2/lib/x86_64-osx-ghc-9.0.2/rts-1.0.2/include/ghcversion.h:
+  hash: 3b6c0f16983344ce12525816947d892da98bc96f17a664531494f515b9356c81
+? /Users/mhciurej/Exercism/Haskell/matching-brackets/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/autogen/Paths_matching_brackets.hs
+: hash: c15e1afb92042a4585d173d0e7e953fcee759023d91b99524858039b441a9e87
+/Users/mhciurej/Exercism/Haskell/matching-brackets/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/autogen/cabal_macros.h:
+  hash: cc9027c61502778394903acc1658387c6735d3970ce73a191dc61a17146bebd5
+/Users/mhciurej/Exercism/Haskell/matching-brackets/matching-brackets.cabal:
+  hash: 9677b71daa37d3c3e00e059c311e83f74eb73fef8147c14bb9d5666b57a7fc7d
+/Users/mhciurej/Exercism/Haskell/matching-brackets/package.yaml:
+  hash: be37997a3b5b3612f676893d37c073ead8afc0f76bdddc4e8bb3bc3882855a7e
+/Users/mhciurej/Exercism/Haskell/matching-brackets/src/Brackets.hs:
+  hash: 3765b0ac9905f86d7eb9441b53b6d311288fca01a8cc65577a7003edc91919d5

@@ -1,0 +1,12 @@
+/Users/mhciurej/.ghcup/ghc/9.2.7/lib/ghc-9.2.7/lib/x86_64-osx-ghc-9.2.7/rts-1.0.2/include/ghcversion.h:
+  hash: 33b3e1b0047b6cca48a29d69ecd33f64042e571e70747f1155f402ea75f33a9f
+? /Users/mhciurej/Exercism/Haskell/run-length-encoding/.stack-work/dist/x86_64-osx/Cabal-3.6.3.0/build/autogen/Paths_run_length_encoding.hs
+: hash: 09f41ad8d6c7621b5f6488053d22351de3824b08307a914bc230d75874dd870e
+/Users/mhciurej/Exercism/Haskell/run-length-encoding/.stack-work/dist/x86_64-osx/Cabal-3.6.3.0/build/autogen/cabal_macros.h:
+  hash: b0e2d075196ce63a3f13076a92e4b306a347e98eb3008c4771cfde1fc1799c1d
+/Users/mhciurej/Exercism/Haskell/run-length-encoding/package.yaml:
+  hash: efdd27d11664946d3b4f458f36382a52182979a3dde911413dc47c3d32b1e66a
+/Users/mhciurej/Exercism/Haskell/run-length-encoding/run-length-encoding.cabal:
+  hash: fb693140d5e1b3a43303a4cd963c8ee5124c6402b4cdf941887a9a31266bb27c
+/Users/mhciurej/Exercism/Haskell/run-length-encoding/src/RunLength.hs:
+  hash: acd30465b3f576f3f86e397d75076029aca2b99136878e2d485b1cd72da5053d

@@ -1,0 +1,12 @@
+/Users/mhciurej/.ghcup/ghc/9.2.7/lib/ghc-9.2.7/lib/x86_64-osx-ghc-9.2.7/rts-1.0.2/include/ghcversion.h:
+  hash: 33b3e1b0047b6cca48a29d69ecd33f64042e571e70747f1155f402ea75f33a9f
+? /Users/mhciurej/Exercism/Haskell/palindrome-products/.stack-work/dist/x86_64-osx/Cabal-3.6.3.0/build/test/autogen/Paths_palindrome_products.hs
+: hash: 10e274e7a4290483effe29cb9a9348102591ed8734af46cb28fcce520b0cfd4c
+/Users/mhciurej/Exercism/Haskell/palindrome-products/.stack-work/dist/x86_64-osx/Cabal-3.6.3.0/build/test/autogen/cabal_macros.h:
+  hash: ac88b50256b8bab3f18d25931aa66f97265e75d901907495a54c261ae0d34281
+/Users/mhciurej/Exercism/Haskell/palindrome-products/package.yaml:
+  hash: cf57c009f00416302cbc79c67bc00353fad432e869809067ed20d46661062439
+/Users/mhciurej/Exercism/Haskell/palindrome-products/palindrome-products.cabal:
+  hash: d4654ed15c450b2e19fff68cee51f17d6ccdcb562833bf607795a2f532be5569
+/Users/mhciurej/Exercism/Haskell/palindrome-products/test/Tests.hs:
+  hash: a61c93e2b6a02830850800e80d6e759ee23aa94138659bf32a3923ccedebbe22

@@ -1,0 +1,12 @@
+/Users/mhciurej/.ghcup/ghc/9.2.7/lib/ghc-9.2.7/lib/x86_64-osx-ghc-9.2.7/rts-1.0.2/include/ghcversion.h:
+  hash: 33b3e1b0047b6cca48a29d69ecd33f64042e571e70747f1155f402ea75f33a9f
+? /Users/mhciurej/Exercism/Haskell/largest-series-product/.stack-work/dist/x86_64-osx/Cabal-3.6.3.0/build/autogen/Paths_largest_series_product.hs
+: hash: 6f482fe47c7673ec4ce399bd2867bde2d90b0d61e555fa4e138a8b12e8495f53
+/Users/mhciurej/Exercism/Haskell/largest-series-product/.stack-work/dist/x86_64-osx/Cabal-3.6.3.0/build/autogen/cabal_macros.h:
+  hash: f12de9e61a602116a07bea8863e4ae744ad1ba5669495e7a7e0750b64593cb2f
+/Users/mhciurej/Exercism/Haskell/largest-series-product/largest-series-product.cabal:
+  hash: 392a7385617f74ddbfc2ec62782e2c322bea0beb8fa69c416ccd78dd5b7abd19
+/Users/mhciurej/Exercism/Haskell/largest-series-product/package.yaml:
+  hash: 2abf7ba894991c61c02a31c0703b263742ff345c57ac7e1a113e7785e58f0d33
+/Users/mhciurej/Exercism/Haskell/largest-series-product/src/Series.hs:
+  hash: beedb4789548896415ee16170b6f6b8d4e2c4cb2a79562e83256248f435308f1

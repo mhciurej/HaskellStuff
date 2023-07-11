@@ -1,0 +1,12 @@
+/Users/mhciurej/.ghcup/ghc/9.0.2/lib/ghc-9.0.2/lib/x86_64-osx-ghc-9.0.2/rts-1.0.2/include/ghcversion.h:
+  hash: 3b6c0f16983344ce12525816947d892da98bc96f17a664531494f515b9356c81
+/Users/mhciurej/Exercism/Haskell/hamming/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/test/autogen/Paths_hamming.hs:
+  hash: 8ee6e3ea0885c4d79fa172c959d946f9a82c6e7b8aa4d0b0e9fba191d19e90d3
+/Users/mhciurej/Exercism/Haskell/hamming/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/test/autogen/cabal_macros.h:
+  hash: 4fafd4cddab56223530cedf3f409da78358ddecb833cc1bf88ee0db881142a1d
+/Users/mhciurej/Exercism/Haskell/hamming/hamming.cabal:
+  hash: 174a59d8f6f81d2d276fc2e0a6db27c6de1f88d9531bffcadca0e30e771653fb
+/Users/mhciurej/Exercism/Haskell/hamming/package.yaml:
+  hash: b288dbc09c4f862b47c9c00241cb27b69d073dbdcf4c1c573aeed7b7552683f7
+/Users/mhciurej/Exercism/Haskell/hamming/test/Tests.hs:
+  hash: 3559a7966386f008995556d1af86fae40effd68dbd3cf819ff7439af61cadfbe

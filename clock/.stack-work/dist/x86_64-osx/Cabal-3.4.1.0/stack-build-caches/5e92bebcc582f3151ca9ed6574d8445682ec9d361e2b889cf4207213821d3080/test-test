@@ -1,0 +1,12 @@
+/Users/mhciurej/.ghcup/ghc/9.0.2/lib/ghc-9.0.2/lib/x86_64-osx-ghc-9.0.2/rts-1.0.2/include/ghcversion.h:
+  hash: 3b6c0f16983344ce12525816947d892da98bc96f17a664531494f515b9356c81
+/Users/mhciurej/Exercism/Haskell/clock/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/test/autogen/Paths_exercism_clock.hs:
+  hash: cc5d494f825a1111b05c5e2f854cb394bf34b1461cf23196ed6607471c44f583
+/Users/mhciurej/Exercism/Haskell/clock/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/test/autogen/cabal_macros.h:
+  hash: aa423bbe7886e2aa1edde04b586c953c30570b143f33a3debf9ddf55eced7e15
+/Users/mhciurej/Exercism/Haskell/clock/exercism-clock.cabal:
+  hash: 7ee10742d6f68deea4a6e983f4b4f1236ea2e6f0a63388046ee644433928bc4b
+/Users/mhciurej/Exercism/Haskell/clock/package.yaml:
+  hash: c96e719fe7aa088be4d9288e464eb4e84f1ef93c2f5f874a04673b78d7a2ede9
+/Users/mhciurej/Exercism/Haskell/clock/test/Tests.hs:
+  hash: 8ccfc35ce9c6a67edc85214df1cee63d09926aa6c97546dc043f07d329837b1f

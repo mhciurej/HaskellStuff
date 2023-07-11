@@ -1,0 +1,12 @@
+/Users/mhciurej/.ghcup/ghc/9.0.2/lib/ghc-9.0.2/lib/x86_64-osx-ghc-9.0.2/rts-1.0.2/include/ghcversion.h:
+  hash: 3b6c0f16983344ce12525816947d892da98bc96f17a664531494f515b9356c81
+/Users/mhciurej/Exercism/Haskell/word-count/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/test/autogen/Paths_word_count.hs:
+  hash: b1beb753a0c63aca8d98038c5ad9b5be605970f88441a7775d6b35fdb75f1991
+/Users/mhciurej/Exercism/Haskell/word-count/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/test/autogen/cabal_macros.h:
+  hash: f63cf54379c7ff1b3ae65b33ffbf32f36ee39b583613f6396841eaed1153f3b7
+/Users/mhciurej/Exercism/Haskell/word-count/package.yaml:
+  hash: 2032847dac1fd0b2ac4ce5c15e7271bbb8db3a80cb4ab86d2df37cda14134140
+/Users/mhciurej/Exercism/Haskell/word-count/test/Tests.hs:
+  hash: 811009b6b97158a4df95250e57417ebd049723aa1bd14bae5d49b45bbf6d5af2
+/Users/mhciurej/Exercism/Haskell/word-count/word-count.cabal:
+  hash: 27a1bed5373d5d442642d89e622faba07b3164e7d626101ee4d57d9c3507ad97

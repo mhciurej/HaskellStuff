@@ -1,0 +1,12 @@
+/Users/mhciurej/.ghcup/ghc/9.0.2/lib/ghc-9.0.2/lib/x86_64-osx-ghc-9.0.2/rts-1.0.2/include/ghcversion.h:
+  hash: 3b6c0f16983344ce12525816947d892da98bc96f17a664531494f515b9356c81
+/Users/mhciurej/Exercism/Haskell/isbn-verifier/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/autogen/Paths_isbn_verifier.hs:
+  hash: 2679a347d0a80e9c427cf6688357f77eaa4887e261ded7756f84ec7a7856f504
+/Users/mhciurej/Exercism/Haskell/isbn-verifier/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/autogen/cabal_macros.h:
+  hash: f9ede4886a45e692a5c4d28c13b4cd0a61b070efb49ff3ee643ba584bbfffd84
+/Users/mhciurej/Exercism/Haskell/isbn-verifier/isbn-verifier.cabal:
+  hash: 7db547081340ac6e11a31b033493f773723a9069c5b15f904dfd07c8877f8a4f
+/Users/mhciurej/Exercism/Haskell/isbn-verifier/package.yaml:
+  hash: fa6a7119a4a470a80e42dc8cb9752fe34cfbeb98649a6f217adc3ba85eda9965
+/Users/mhciurej/Exercism/Haskell/isbn-verifier/src/IsbnVerifier.hs:
+  hash: 920533221fadd2dac975e58781f5fcd06dca6daebedf02611d5e4524f8977ce3

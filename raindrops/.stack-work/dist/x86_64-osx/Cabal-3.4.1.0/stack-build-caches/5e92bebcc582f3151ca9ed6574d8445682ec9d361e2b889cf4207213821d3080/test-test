@@ -1,0 +1,12 @@
+/Users/mhciurej/.ghcup/ghc/9.0.2/lib/ghc-9.0.2/lib/x86_64-osx-ghc-9.0.2/rts-1.0.2/include/ghcversion.h:
+  hash: 3b6c0f16983344ce12525816947d892da98bc96f17a664531494f515b9356c81
+/Users/mhciurej/Exercism/Haskell/raindrops/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/test/autogen/Paths_raindrops.hs:
+  hash: 1829d5e630a83736de7f903ffca58d23143ca601f958afde4c4212855611979d
+/Users/mhciurej/Exercism/Haskell/raindrops/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/test/autogen/cabal_macros.h:
+  hash: 0d7dd6127600d7323fd4a9007bf18a25614b11c9c5f113c759f65039fb6c952b
+/Users/mhciurej/Exercism/Haskell/raindrops/package.yaml:
+  hash: 26dbac9b32b06803f8ccf2e0125cbe7eb14c647eb3accc9a05406ba192599bd1
+/Users/mhciurej/Exercism/Haskell/raindrops/raindrops.cabal:
+  hash: e9dc67785d65c3fcb221ee3888dcd17e7e1c0e22819a71460afcaed8aada96d1
+/Users/mhciurej/Exercism/Haskell/raindrops/test/Tests.hs:
+  hash: 6088ef0186fa54a040170488f3a73aef249bb144f32568e07731243236eee06a

@@ -1,0 +1,12 @@
+/Users/mhciurej/.ghcup/ghc/9.0.2/lib/ghc-9.0.2/lib/x86_64-osx-ghc-9.0.2/rts-1.0.2/include/ghcversion.h:
+  hash: 3b6c0f16983344ce12525816947d892da98bc96f17a664531494f515b9356c81
+? /Users/mhciurej/Exercism/Haskell/lucians-luscious-lasagna/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/test/autogen/Paths_lucians_luscious_lasagna.hs
+: hash: 1d816316c723038d23fabb413b51336af5d459824b993d3596360a8a8ad2e99f
+? /Users/mhciurej/Exercism/Haskell/lucians-luscious-lasagna/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/test/autogen/cabal_macros.h
+: hash: 44e4eb21dec7e55177fa84756cb9ec586cae3974068fff79dfe24f22747d7ab8
+/Users/mhciurej/Exercism/Haskell/lucians-luscious-lasagna/lucians-luscious-lasagna.cabal:
+  hash: f2cf1aa823f5b978ac4eebcee77fced2f528193cf754f93befa735a743d97cc7
+/Users/mhciurej/Exercism/Haskell/lucians-luscious-lasagna/package.yaml:
+  hash: f289fc428522fb2a3f75b556978c54b0df75ba8b73b6142802ea9ddd683ce53e
+/Users/mhciurej/Exercism/Haskell/lucians-luscious-lasagna/test/Tests.hs:
+  hash: b4dce38cf0afc312707bc1660b21d34de5396413e5e118f124b92284615339d5

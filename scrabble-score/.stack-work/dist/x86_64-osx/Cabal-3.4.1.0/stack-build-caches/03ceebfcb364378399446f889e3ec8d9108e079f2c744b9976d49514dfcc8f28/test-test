@@ -1,0 +1,12 @@
+/Users/mhciurej/.stack/programs/x86_64-osx/ghc-9.0.2/lib/ghc-9.0.2/lib/x86_64-osx-ghc-9.0.2/rts-1.0.2/include/ghcversion.h:
+  hash: 3b6c0f16983344ce12525816947d892da98bc96f17a664531494f515b9356c81
+? /Users/mhciurej/Exercism/Haskell/scrabble-score/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/test/autogen/Paths_scrabble_score.hs
+: hash: b5cb80e3c8679b5e9bc68fcb2dcdb248ae50e0de033e68e626a628a1fa095c88
+/Users/mhciurej/Exercism/Haskell/scrabble-score/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/test/autogen/cabal_macros.h:
+  hash: 8e0479666e1a086a8722db82213d96d0c22569401fa50921c9a32dfe3e6d766b
+/Users/mhciurej/Exercism/Haskell/scrabble-score/package.yaml:
+  hash: cf62af4d6a6e9b245c940bc55f16416eceebbd80e730d584319f926e2c5bf7e9
+/Users/mhciurej/Exercism/Haskell/scrabble-score/scrabble-score.cabal:
+  hash: 44d676184f30d3d20da401ea784ad177e64cc980b9dad0da06dc73237db6fa52
+/Users/mhciurej/Exercism/Haskell/scrabble-score/test/Tests.hs:
+  hash: 6330d0ef3b3e028640dc4d91dc4dcce470f15637404481339bc845860a6e920e

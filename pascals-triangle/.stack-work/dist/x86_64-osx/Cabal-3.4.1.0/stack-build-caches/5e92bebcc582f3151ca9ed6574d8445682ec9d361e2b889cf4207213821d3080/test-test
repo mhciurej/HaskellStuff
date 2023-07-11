@@ -1,0 +1,12 @@
+/Users/mhciurej/.ghcup/ghc/9.0.2/lib/ghc-9.0.2/lib/x86_64-osx-ghc-9.0.2/rts-1.0.2/include/ghcversion.h:
+  hash: 3b6c0f16983344ce12525816947d892da98bc96f17a664531494f515b9356c81
+? /Users/mhciurej/Exercism/Haskell/pascals-triangle/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/test/autogen/Paths_pascals_triangle.hs
+: hash: 413edbf387a9000361665ae73d2366a9f911064fd17f25398e3854b0d919a644
+/Users/mhciurej/Exercism/Haskell/pascals-triangle/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/test/autogen/cabal_macros.h:
+  hash: c78d7b76470cb6a45a1e8946c3c87ded64505424392b4b15500bd9b400b45d43
+/Users/mhciurej/Exercism/Haskell/pascals-triangle/package.yaml:
+  hash: 26501f0cc8f58637d57b7a84bff2b44f751c90c6d1aaa2b15afcd7523c6f1774
+/Users/mhciurej/Exercism/Haskell/pascals-triangle/pascals-triangle.cabal:
+  hash: aa13e6fd0bed955c0cc91be817bc0817a99a549f0c6d28c59863085826ac8a31
+/Users/mhciurej/Exercism/Haskell/pascals-triangle/test/Tests.hs:
+  hash: 4f7b372b5d91667fe8bafd6353fdc502baa7af8fbbfad730dcd200b67bee08af

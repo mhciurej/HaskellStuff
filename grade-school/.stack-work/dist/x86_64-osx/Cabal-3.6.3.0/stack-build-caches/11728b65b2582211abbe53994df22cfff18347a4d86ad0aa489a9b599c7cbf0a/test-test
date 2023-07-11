@@ -1,0 +1,12 @@
+/Users/mhciurej/.ghcup/ghc/9.2.7/lib/ghc-9.2.7/lib/x86_64-osx-ghc-9.2.7/rts-1.0.2/include/ghcversion.h:
+  hash: 33b3e1b0047b6cca48a29d69ecd33f64042e571e70747f1155f402ea75f33a9f
+/Users/mhciurej/Exercism/Haskell/grade-school/.stack-work/dist/x86_64-osx/Cabal-3.6.3.0/build/test/autogen/Paths_grade_school.hs:
+  hash: b52e51bfd4ba4b70b18629efae49fefdca60ddf3745593f16c87c52ae5a2b085
+/Users/mhciurej/Exercism/Haskell/grade-school/.stack-work/dist/x86_64-osx/Cabal-3.6.3.0/build/test/autogen/cabal_macros.h:
+  hash: 81c7a78b90fc6673fa39b2afc01f0dcbd8528fb802a60b93f727a16d6d0494f8
+/Users/mhciurej/Exercism/Haskell/grade-school/grade-school.cabal:
+  hash: 8b99bc75eb604c03385af3936a4e5ed5aa89f123b612438620ace4f47cdf4376
+/Users/mhciurej/Exercism/Haskell/grade-school/package.yaml:
+  hash: 4ca4294d991d282e10a904b597af8a43fc7933425eb37260e3033f85c5ec0936
+/Users/mhciurej/Exercism/Haskell/grade-school/test/Tests.hs:
+  hash: d6393287fdf88842ea35d20267c9f4a8bf96f89a2cc070db7ba6ccde1d69d60b

@@ -1,0 +1,12 @@
+/Users/mhciurej/.ghcup/ghc/9.0.2/lib/ghc-9.0.2/lib/x86_64-osx-ghc-9.0.2/rts-1.0.2/include/ghcversion.h:
+  hash: 3b6c0f16983344ce12525816947d892da98bc96f17a664531494f515b9356c81
+/Users/mhciurej/Exercism/Haskell/allergies/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/test/autogen/Paths_allergies.hs:
+  hash: afb5b997ad11b29895142f3b84415554cce89197eb8e7a8ebe89d8928b0818e9
+/Users/mhciurej/Exercism/Haskell/allergies/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/test/autogen/cabal_macros.h:
+  hash: 12701f68b3d27a2d111e6127943c6b2b56cfcb648e9047e7a19c0d06fa0b22fc
+/Users/mhciurej/Exercism/Haskell/allergies/allergies.cabal:
+  hash: 4ba4aa70367c8356106e044e9fad50897c7221fc69d530ffc7e11ae3ed709d2a
+/Users/mhciurej/Exercism/Haskell/allergies/package.yaml:
+  hash: 2b65127af75a9245938aca0aecb7ea3bd1fe8ef3991b4505f67c03a4da112e14
+/Users/mhciurej/Exercism/Haskell/allergies/test/Tests.hs:
+  hash: 0a65721756ca2faaa5d3cf0af15fd03f1ababa9587ab4241a3af78bd11a4bc57

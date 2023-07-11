@@ -1,0 +1,12 @@
+/Users/mhciurej/.ghcup/ghc/9.0.2/lib/ghc-9.0.2/lib/x86_64-osx-ghc-9.0.2/rts-1.0.2/include/ghcversion.h:
+  hash: 3b6c0f16983344ce12525816947d892da98bc96f17a664531494f515b9356c81
+? /Users/mhciurej/Exercism/Haskell/armstrong-numbers/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/autogen/Paths_armstrong_numbers.hs
+: hash: 33af6363031f8d86a9b8ecf54cd803bf3cb0d49c25878cd8913c239e8a097426
+/Users/mhciurej/Exercism/Haskell/armstrong-numbers/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/autogen/cabal_macros.h:
+  hash: 5c3cd57b7c7840da1420f10d40f6fee2d76f518ec48c5105564688c189045bc4
+/Users/mhciurej/Exercism/Haskell/armstrong-numbers/armstrong-numbers.cabal:
+  hash: ff68f1e4ea656db49b2acd2c12a307bb6cc8757b339a2c970fc524fe35ae8c38
+/Users/mhciurej/Exercism/Haskell/armstrong-numbers/package.yaml:
+  hash: ed817912cfe932d83c44b08695df3ab4f4ed905b319580190223cd42b0e6671b
+/Users/mhciurej/Exercism/Haskell/armstrong-numbers/src/ArmstrongNumbers.hs:
+  hash: d650e9aed263214f823b15abb9db40eaa52754f3b57d7b2044aeb1d92f5093d7

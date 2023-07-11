@@ -1,0 +1,12 @@
+/Users/mhciurej/.ghcup/ghc/9.0.2/lib/ghc-9.0.2/lib/x86_64-osx-ghc-9.0.2/rts-1.0.2/include/ghcversion.h:
+  hash: 3b6c0f16983344ce12525816947d892da98bc96f17a664531494f515b9356c81
+/Users/mhciurej/Exercism/Haskell/bob/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/autogen/Paths_bob.hs:
+  hash: b299f061a1bdfa7334673b93b9d99d2fc17ec42fb36d740ef53f44ceab53fd25
+/Users/mhciurej/Exercism/Haskell/bob/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/autogen/cabal_macros.h:
+  hash: d364ec80df37b849d34487fd345d33ae142223d185d40222c422dfc45ddebfc6
+/Users/mhciurej/Exercism/Haskell/bob/bob.cabal:
+  hash: 573fb76f6c609d23333baff89994a4b13fd7b2d5bd347b8ad418ee82fcf0cd3a
+/Users/mhciurej/Exercism/Haskell/bob/package.yaml:
+  hash: e684e8bbc2c844b192a7aaa30f6eb4ce817babf13e080d4168381e03f20a974c
+/Users/mhciurej/Exercism/Haskell/bob/src/Bob.hs:
+  hash: 9d48f5da1c41bf6d643d0288c94dd67a2f75ffd2d7271f074f16e4bd10f05840

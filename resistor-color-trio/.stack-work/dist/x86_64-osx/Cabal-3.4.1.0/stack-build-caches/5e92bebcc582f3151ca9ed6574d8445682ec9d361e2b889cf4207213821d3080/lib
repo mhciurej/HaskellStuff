@@ -1,0 +1,12 @@
+/Users/mhciurej/.ghcup/ghc/9.0.2/lib/ghc-9.0.2/lib/x86_64-osx-ghc-9.0.2/rts-1.0.2/include/ghcversion.h:
+  hash: 3b6c0f16983344ce12525816947d892da98bc96f17a664531494f515b9356c81
+? /Users/mhciurej/Exercism/Haskell/resistor-color-trio/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/autogen/Paths_resistor_color_trio.hs
+: hash: b2cedb5c9a078e53a95b55e08ae0f7da042378460a715d2cce09502ef369bc8e
+/Users/mhciurej/Exercism/Haskell/resistor-color-trio/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/autogen/cabal_macros.h:
+  hash: ce9579bae3b2162bd364e06f1e51718658f1109a82bebbd71b208321f63f5578
+/Users/mhciurej/Exercism/Haskell/resistor-color-trio/package.yaml:
+  hash: dcb859068dfaadf8d33ff46a2d8e8030651e859567e4f624fb26396117535f09
+/Users/mhciurej/Exercism/Haskell/resistor-color-trio/resistor-color-trio.cabal:
+  hash: df1d81c0c7b34a96847ad591430224ab16d17a672c495c686ff6b2c45171bfef
+/Users/mhciurej/Exercism/Haskell/resistor-color-trio/src/ResistorColors.hs:
+  hash: 5335e077ce2dd8de0977516da5f2b2fd562108f3c6b9df9b905fcc01e225fce4

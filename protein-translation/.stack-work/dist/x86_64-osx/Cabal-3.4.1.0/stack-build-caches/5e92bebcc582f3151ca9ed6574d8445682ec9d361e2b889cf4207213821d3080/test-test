@@ -1,0 +1,12 @@
+/Users/mhciurej/.ghcup/ghc/9.0.2/lib/ghc-9.0.2/lib/x86_64-osx-ghc-9.0.2/rts-1.0.2/include/ghcversion.h:
+  hash: 3b6c0f16983344ce12525816947d892da98bc96f17a664531494f515b9356c81
+? /Users/mhciurej/Exercism/Haskell/protein-translation/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/test/autogen/Paths_protein_translation.hs
+: hash: be6d2a32138fbd600350efce22fd56ce115d252cb80e3df30de88826ea427c4c
+/Users/mhciurej/Exercism/Haskell/protein-translation/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/test/autogen/cabal_macros.h:
+  hash: c4b401c4bb3f2dfa1994abd232a17ce5eafd2a6103bf60937366e243ad7ac686
+/Users/mhciurej/Exercism/Haskell/protein-translation/package.yaml:
+  hash: 24b8bfb69059f7f805814f3443ac441cb416db7d6c234999f7ad6347a721d6d4
+/Users/mhciurej/Exercism/Haskell/protein-translation/protein-translation.cabal:
+  hash: 1b6bf2f2355b2591f78cc1986fbee87ae054c6fae9e216b9c79a6f0d85ce765b
+/Users/mhciurej/Exercism/Haskell/protein-translation/test/Tests.hs:
+  hash: cd2eeac22f5f4408138c23c7ecfa29fce00f0e8e1e9514b270a7b60fb639c298

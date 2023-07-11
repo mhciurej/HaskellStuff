@@ -1,0 +1,12 @@
+/Users/mhciurej/.ghcup/ghc/9.2.7/lib/ghc-9.2.7/lib/x86_64-osx-ghc-9.2.7/rts-1.0.2/include/ghcversion.h:
+  hash: 33b3e1b0047b6cca48a29d69ecd33f64042e571e70747f1155f402ea75f33a9f
+/Users/mhciurej/Exercism/Haskell/isogram/.stack-work/dist/x86_64-osx/Cabal-3.6.3.0/build/test/autogen/Paths_isogram.hs:
+  hash: 30fd71c3c68520858bf7cded05fee22f9af7d3527a34f865c3dc35e263b7f327
+/Users/mhciurej/Exercism/Haskell/isogram/.stack-work/dist/x86_64-osx/Cabal-3.6.3.0/build/test/autogen/cabal_macros.h:
+  hash: c39ad0c1bace5ff2663d2a621a9289a7c4c3d16c36081630482d00fca805d49f
+/Users/mhciurej/Exercism/Haskell/isogram/isogram.cabal:
+  hash: 33530e82f8185acbede6d514d570c42d2e2b22652ecf4671b579af34874e0d2b
+/Users/mhciurej/Exercism/Haskell/isogram/package.yaml:
+  hash: cb64d0f917c1648df05feaf17df51129989762d3d1d9d39754fafd2da1aed3de
+/Users/mhciurej/Exercism/Haskell/isogram/test/Tests.hs:
+  hash: 2438bc453a3e94a8aa26915d703b0b61e745a6fad209791b9ba04e13dd51f41a

@@ -1,0 +1,12 @@
+/Users/mhciurej/.ghcup/ghc/9.0.2/lib/ghc-9.0.2/lib/x86_64-osx-ghc-9.0.2/rts-1.0.2/include/ghcversion.h:
+  hash: 3b6c0f16983344ce12525816947d892da98bc96f17a664531494f515b9356c81
+/Users/mhciurej/Exercism/Haskell/diamond/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/test/autogen/Paths_diamond.hs:
+  hash: 87d6f084efdc5f6ccc7cce6b52862edbcf03b4d0f0fea81a14593c068ad01c88
+/Users/mhciurej/Exercism/Haskell/diamond/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/test/autogen/cabal_macros.h:
+  hash: 3856929f57bd7fef1309522bb19e0e625c4cc4cfe60846f3db7a6d8655692b5c
+/Users/mhciurej/Exercism/Haskell/diamond/diamond.cabal:
+  hash: 29273625e747d0c5652b9c27fa67c64d0defcc946582a50a0e1ae6252d4d377c
+/Users/mhciurej/Exercism/Haskell/diamond/package.yaml:
+  hash: 67150f7f5aeff323231fb42e7004a662ee7290e75d371b49e1d82eb54ffa048a
+/Users/mhciurej/Exercism/Haskell/diamond/test/Tests.hs:
+  hash: 9ee1165fd66fd778a5b440d408872ec25f251fb6bcc78aab305b1ae34d92909a

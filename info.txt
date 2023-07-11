@@ -1,0 +1,8 @@
+How to install additional package for haskell?
+1) Go OUTSIDE of haskell project.
+2) cabal install multiset     for installing package multiset
+3) do what cabal says that's all.
+
+4) to find a module name you may use https://hackage.haskell.org/package/multiset
+5) lowercase white letters
+	multiset: The Data.MultiSet container type

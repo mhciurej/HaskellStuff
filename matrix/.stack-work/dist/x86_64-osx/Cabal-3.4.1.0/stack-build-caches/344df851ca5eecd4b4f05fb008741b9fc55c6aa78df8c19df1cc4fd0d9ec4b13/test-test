@@ -1,0 +1,12 @@
+/Users/mhciurej/.ghcup/ghc/9.0.2/lib/ghc-9.0.2/lib/x86_64-osx-ghc-9.0.2/rts-1.0.2/include/ghcversion.h:
+  hash: 3b6c0f16983344ce12525816947d892da98bc96f17a664531494f515b9356c81
+/Users/mhciurej/Exercism/Haskell/matrix/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/test/autogen/Paths_matrix.hs:
+  hash: 0046d7c8ffd7020bb7d70541bf84244d051a8dbc00fc25c5c2a7e471533a0cea
+/Users/mhciurej/Exercism/Haskell/matrix/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/test/autogen/cabal_macros.h:
+  hash: bfcbbf7f32ff1d4a64f1bbf060761763f0bf63e6e26644bc2c1e454504bb7a94
+/Users/mhciurej/Exercism/Haskell/matrix/matrix.cabal:
+  hash: 42faa99db781f33367faa06cde1555dcd3ce8105c119058fb9b65385212e23d9
+/Users/mhciurej/Exercism/Haskell/matrix/package.yaml:
+  hash: fdbfb0013d04c72cc8537185012411ccb1a674b8aeea0a111f33ef32eb8b2b08
+/Users/mhciurej/Exercism/Haskell/matrix/test/Tests.hs:
+  hash: 31f9f608da0fcf1de62244f92ca5d0422fe3974c12658043699e6c6a38222258

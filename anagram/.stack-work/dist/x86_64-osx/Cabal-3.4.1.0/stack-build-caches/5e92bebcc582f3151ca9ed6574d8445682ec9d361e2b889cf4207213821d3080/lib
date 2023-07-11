@@ -1,0 +1,12 @@
+/Users/mhciurej/.ghcup/ghc/9.0.2/lib/ghc-9.0.2/lib/x86_64-osx-ghc-9.0.2/rts-1.0.2/include/ghcversion.h:
+  hash: 3b6c0f16983344ce12525816947d892da98bc96f17a664531494f515b9356c81
+/Users/mhciurej/Exercism/Haskell/anagram/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/autogen/Paths_anagram.hs:
+  hash: 934fa48dbea561ba1119bd5dcc9cff2c466a11962366116581e0e88a73ebe9de
+/Users/mhciurej/Exercism/Haskell/anagram/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/autogen/cabal_macros.h:
+  hash: 7d28e768cbca06d502fb32e3a303e3aa10d0736c5715e51d43d5d5b6e8078b37
+/Users/mhciurej/Exercism/Haskell/anagram/anagram.cabal:
+  hash: be0468eb31ba1b343f52e3deec2ba71f09e8ef50bd16c09807cfaa83642d1f46
+/Users/mhciurej/Exercism/Haskell/anagram/package.yaml:
+  hash: d8f035c1c00965cc557a0272e191f97d610bfa8bd8530ac35e0d2f1606213f88
+/Users/mhciurej/Exercism/Haskell/anagram/src/Anagram.hs:
+  hash: 5ce119f967f7182b1a8790ed35ada1901d7aff944b4eb429e9ab534bbbcfde47

@@ -1,0 +1,12 @@
+/Users/mhciurej/.ghcup/ghc/9.0.2/lib/ghc-9.0.2/lib/x86_64-osx-ghc-9.0.2/rts-1.0.2/include/ghcversion.h:
+  hash: 3b6c0f16983344ce12525816947d892da98bc96f17a664531494f515b9356c81
+? /Users/mhciurej/Exercism/Haskell/simple-linked-list/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/test/autogen/Paths_simple_linked_list.hs
+: hash: 197b87dd4dafc965415889ebfed70512433bd132737fa719b999fc530fe3a082
+/Users/mhciurej/Exercism/Haskell/simple-linked-list/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/test/autogen/cabal_macros.h:
+  hash: b86fbe9912c3118aead208b928bada11645294c5d3ce76cf0595ae230e1a6e5a
+/Users/mhciurej/Exercism/Haskell/simple-linked-list/package.yaml:
+  hash: 4a7798a454fe2d2d05f35ec361eaeb6759aad95fe53f58f642bb962a484c4164
+/Users/mhciurej/Exercism/Haskell/simple-linked-list/simple-linked-list.cabal:
+  hash: de6e28cd1bb371d28fd60066d8070fd0ce8fd5d5eddaae127001429b4784f58f
+/Users/mhciurej/Exercism/Haskell/simple-linked-list/test/Tests.hs:
+  hash: b0e9080ca6ab5fab8420cbd7352e34d6bc24fe354f3c2b9bb3973738f942d9b9

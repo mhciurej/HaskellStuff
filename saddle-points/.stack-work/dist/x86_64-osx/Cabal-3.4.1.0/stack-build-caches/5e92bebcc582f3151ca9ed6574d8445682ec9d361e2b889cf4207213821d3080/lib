@@ -1,0 +1,12 @@
+/Users/mhciurej/.ghcup/ghc/9.0.2/lib/ghc-9.0.2/lib/x86_64-osx-ghc-9.0.2/rts-1.0.2/include/ghcversion.h:
+  hash: 3b6c0f16983344ce12525816947d892da98bc96f17a664531494f515b9356c81
+/Users/mhciurej/Exercism/Haskell/saddle-points/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/autogen/Paths_saddle_points.hs:
+  hash: fc6290f83bb7ec6819d5da5627b8a8385439ab00a2dbd4efb6c9b8e0ebe3a225
+/Users/mhciurej/Exercism/Haskell/saddle-points/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/autogen/cabal_macros.h:
+  hash: 4cb6a3b428d040d5bc4b61fccc7611eefb737c661e0696fbf030db099cea1cfd
+/Users/mhciurej/Exercism/Haskell/saddle-points/package.yaml:
+  hash: 49677a1e7297e02e4c6812df2689119cae7d6fe91b521df220857d7a98550092
+/Users/mhciurej/Exercism/Haskell/saddle-points/saddle-points.cabal:
+  hash: c509405fd1a3f1c3481747b8a5da90787ca3d67e31b144c0cc5afb6057a897f7
+/Users/mhciurej/Exercism/Haskell/saddle-points/src/Matrix.hs:
+  hash: 528cc8ef6ce646cffb7e80f7005a176bc08164c05bb760fd15128007a06de9ab

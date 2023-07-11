@@ -1,0 +1,12 @@
+/Users/mhciurej/.ghcup/ghc/9.0.2/lib/ghc-9.0.2/lib/x86_64-osx-ghc-9.0.2/rts-1.0.2/include/ghcversion.h:
+  hash: 3b6c0f16983344ce12525816947d892da98bc96f17a664531494f515b9356c81
+/Users/mhciurej/Exercism/Haskell/forth/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/autogen/Paths_forth.hs:
+  hash: a70e62910a6c5218b2b78013072989286a3ec35151dd5c546ae92a3cfa0cb376
+/Users/mhciurej/Exercism/Haskell/forth/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/autogen/cabal_macros.h:
+  hash: d48ada893433e8950d5f57195f85c22dd6b7cdb6b4c7bca6516898ab19a61cc2
+/Users/mhciurej/Exercism/Haskell/forth/forth.cabal:
+  hash: 46d9f015bdf8f4626749f5422dcd6a43fd5e28a31c8346f46f6586ca21fd5c41
+/Users/mhciurej/Exercism/Haskell/forth/package.yaml:
+  hash: d31953be5e4cc493f2f5fb3b426b3770f01dd0eebecc3293aa164e0ca3716d4a
+/Users/mhciurej/Exercism/Haskell/forth/src/Forth.hs:
+  hash: 98c583038aa73ae6b28c5b07f4be8973e9d5f44e201eaebf9993cd2a32a8fd32

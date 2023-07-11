@@ -1,0 +1,12 @@
+/Users/mhciurej/.ghcup/ghc/9.0.2/lib/ghc-9.0.2/lib/x86_64-osx-ghc-9.0.2/rts-1.0.2/include/ghcversion.h:
+  hash: 3b6c0f16983344ce12525816947d892da98bc96f17a664531494f515b9356c81
+? /Users/mhciurej/Exercism/Haskell/secret-handshake/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/autogen/Paths_secret_handshake.hs
+: hash: 2fdbe8b01f01d587e723be0893080d5467d53fd751f2f71d412b1c282331d7d7
+/Users/mhciurej/Exercism/Haskell/secret-handshake/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/autogen/cabal_macros.h:
+  hash: beaffbc245258f6719b04bd3ed20aaf9bc2bd1b7830be20e0bb50c82e0f47e10
+/Users/mhciurej/Exercism/Haskell/secret-handshake/package.yaml:
+  hash: 5cdc888731e0dd89d56a8ac6a8c18b4a2cd8a9ddf238884046244093a9915f17
+/Users/mhciurej/Exercism/Haskell/secret-handshake/secret-handshake.cabal:
+  hash: 3b26f42684d5c8a1980579eb4f71d25b5311f67878311a0b6d20c8c6215ddbd5
+/Users/mhciurej/Exercism/Haskell/secret-handshake/src/SecretHandshake.hs:
+  hash: 3b8ce184fb9ec5ceb437d40602d44953ff4e64eaaa453855a9bfa80307977157

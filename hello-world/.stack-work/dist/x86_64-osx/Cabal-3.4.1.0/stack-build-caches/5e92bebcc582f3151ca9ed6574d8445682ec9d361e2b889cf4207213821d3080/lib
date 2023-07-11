@@ -1,0 +1,12 @@
+/Users/mhciurej/.ghcup/ghc/9.0.2/lib/ghc-9.0.2/lib/x86_64-osx-ghc-9.0.2/rts-1.0.2/include/ghcversion.h:
+  hash: 3b6c0f16983344ce12525816947d892da98bc96f17a664531494f515b9356c81
+/Users/mhciurej/Exercism/Haskell/hello-world/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/autogen/Paths_hello_world.hs:
+  hash: f4c88067e683c1aa264872d1d65556b127b4004a1a6a2d81cea4782140461241
+/Users/mhciurej/Exercism/Haskell/hello-world/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/autogen/cabal_macros.h:
+  hash: 6234deb92697ec40501df3e89b18e58eb60836941a536f4ce0e987e2266c7b0a
+/Users/mhciurej/Exercism/Haskell/hello-world/hello-world.cabal:
+  hash: 6f28473ae127ac4273ce4f0589c6e2dd09c679305625b54f56f22a3f4da80d11
+/Users/mhciurej/Exercism/Haskell/hello-world/package.yaml:
+  hash: 160a1a88b7a5bd0f6f1ffd3e24f56cbba5e4d4fbd7f76ea73d649199ca9d76a5
+/Users/mhciurej/Exercism/Haskell/hello-world/src/HelloWorld.hs:
+  hash: 166722a5408adfc55649132fda695e6d531b9b170993936ca18f9e30555840b3

@@ -1,0 +1,12 @@
+/Users/mhciurej/.ghcup/ghc/9.2.7/lib/ghc-9.2.7/lib/x86_64-osx-ghc-9.2.7/rts-1.0.2/include/ghcversion.h:
+  hash: 33b3e1b0047b6cca48a29d69ecd33f64042e571e70747f1155f402ea75f33a9f
+/Users/mhciurej/Exercism/Haskell/etl/.stack-work/dist/x86_64-osx/Cabal-3.6.3.0/build/test/autogen/Paths_etl.hs:
+  hash: a5425f09209d9939a64007b4ef96dae4449077853097bc4b4ba871cd4638794d
+/Users/mhciurej/Exercism/Haskell/etl/.stack-work/dist/x86_64-osx/Cabal-3.6.3.0/build/test/autogen/cabal_macros.h:
+  hash: 4f587f8add4eb21c40b1fbc4b8aae42a31f410e649043c8a56c57828b0af9c3c
+/Users/mhciurej/Exercism/Haskell/etl/etl.cabal:
+  hash: c7458f2cfe3aed3c975763873810faf0cdb7bd274db35b7a0bf9f0d15847417f
+/Users/mhciurej/Exercism/Haskell/etl/package.yaml:
+  hash: 78d2842c184af83e60871e6c934df0c730c82fd562e71ad6edcc6ee92e0f8152
+/Users/mhciurej/Exercism/Haskell/etl/test/Tests.hs:
+  hash: ee7a5128f1766776719b12ed30788bb0d56cf578b3d2f3eb04af251f30c1750b
