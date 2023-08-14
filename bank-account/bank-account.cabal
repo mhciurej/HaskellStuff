@@ -18,6 +18,7 @@ library
   ghc-options: -Wall
   build-depends:
       base
+    , stm
   default-language: Haskell2010
 
 test-suite test
@@ -32,4 +33,5 @@ test-suite test
       bank-account
     , base
     , hspec
+    , stm
   default-language: Haskell2010

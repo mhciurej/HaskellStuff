@@ -123,10 +123,10 @@
 #endif /* MIN_TOOL_VERSION_runghc */
 
 #ifndef CURRENT_PACKAGE_KEY
-#define CURRENT_PACKAGE_KEY "crypto-square-3.2.0.6-3U12Ka3ICop3NYSiYNbzvN"
+#define CURRENT_PACKAGE_KEY "crypto-square-3.2.0.6-LWDe7Gr597fD6WiHLfyt3h"
 #endif /* CURRENT_packageKey */
 #ifndef CURRENT_COMPONENT_ID
-#define CURRENT_COMPONENT_ID "crypto-square-3.2.0.6-3U12Ka3ICop3NYSiYNbzvN"
+#define CURRENT_COMPONENT_ID "crypto-square-3.2.0.6-LWDe7Gr597fD6WiHLfyt3h"
 #endif /* CURRENT_COMPONENT_ID */
 #ifndef CURRENT_PACKAGE_VERSION
 #define CURRENT_PACKAGE_VERSION "3.2.0.6"

@@ -4,6 +4,8 @@ import qualified Data.Text as T
 import           Data.Text (Text)
 import Data.List.Split (chunksOf)
 
+-- to review
+
 removePanctuation :: Text -> Text
 removePanctuation = T.filter (`notElem` " .,-@#!?%")
 

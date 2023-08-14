@@ -31,7 +31,7 @@ version = Version [0,1,0,4] []
 bindir, libdir, dynlibdir, datadir, libexecdir, sysconfdir :: FilePath
 
 bindir     = "/Users/mhciurej/Exercism/Haskell/bank-account/.stack-work/install/x86_64-osx/5e92bebcc582f3151ca9ed6574d8445682ec9d361e2b889cf4207213821d3080/9.0.2/bin"
-libdir     = "/Users/mhciurej/Exercism/Haskell/bank-account/.stack-work/install/x86_64-osx/5e92bebcc582f3151ca9ed6574d8445682ec9d361e2b889cf4207213821d3080/9.0.2/lib/x86_64-osx-ghc-9.0.2/bank-account-0.1.0.4-BcxK8kKymIKJvAvG7v0nSw-test"
+libdir     = "/Users/mhciurej/Exercism/Haskell/bank-account/.stack-work/install/x86_64-osx/5e92bebcc582f3151ca9ed6574d8445682ec9d361e2b889cf4207213821d3080/9.0.2/lib/x86_64-osx-ghc-9.0.2/bank-account-0.1.0.4-CjpeevjxGRo5GHDiFMPbef-test"
 dynlibdir  = "/Users/mhciurej/Exercism/Haskell/bank-account/.stack-work/install/x86_64-osx/5e92bebcc582f3151ca9ed6574d8445682ec9d361e2b889cf4207213821d3080/9.0.2/lib/x86_64-osx-ghc-9.0.2"
 datadir    = "/Users/mhciurej/Exercism/Haskell/bank-account/.stack-work/install/x86_64-osx/5e92bebcc582f3151ca9ed6574d8445682ec9d361e2b889cf4207213821d3080/9.0.2/share/x86_64-osx-ghc-9.0.2/bank-account-0.1.0.4"
 libexecdir = "/Users/mhciurej/Exercism/Haskell/bank-account/.stack-work/install/x86_64-osx/5e92bebcc582f3151ca9ed6574d8445682ec9d361e2b889cf4207213821d3080/9.0.2/libexec/x86_64-osx-ghc-9.0.2/bank-account-0.1.0.4"

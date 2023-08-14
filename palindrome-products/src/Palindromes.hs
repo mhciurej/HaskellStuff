@@ -5,6 +5,10 @@ import Data.Tuple.Extra (fst3)
 products :: Integer -> Integer -> [(Integer, Integer, Integer)]
 products n m = [(i*j, i, j) | i <- [n..m], j <- [n..m], i*j `mod` 10 /= 0]
 
+palindromsDecreasing :: Integer -> Integer -> [Integer]
+palindromsDecreasing n m = let
+    prod1 = 
+
 isPalindrom :: Integer -> Bool
 isPalindrom n = show n == reverse (show n)
 

@@ -1,24 +1,19 @@
 module Sublist (sublist) where
 
-areListsEqual :: (Eq a) => [a] -> [a] -> Bool
-areListsEqual [] [] = True
-areListsEqual (x:xs) (y:ys) = x == y && areListsEqual xs ys
+containsFromNow :: (Eq a) => [a] -> [a] -> Bool
+containsFromNow _ [] = True
+containsFromNow [] _ = False
+containsFromNow (x:xs) (y:ys) = x == y && containsFromNow xs ys
 
 contains :: (Eq a) => [a] -> [a] -> Bool
-contains (x:xs) ys = all (== True) . zipWith (==) (x:xs) ys or contains 
+contains [] [] = True
+contains [] _ = False
+contains (x:xs) ys = containsFromNow (x:xs) ys || contains xs ys
 
 sublist :: (Eq a) => [a] -> [a] -> Maybe Ordering
-sublist (x:xs) (y:ys) = 
-    let
-        lengthFirst = length (x:xs)
-        lengthSecond = length (y:ys)
-    in 
-    | areListsEqual (x:xs) (y:ys) = Just EQ
-    | 
-    case (isSublist xs ys, isSublist ys xs) of
+sublist xs ys = 
+    case (contains xs ys, contains ys xs) of
         (True, True) -> Just EQ
-        (True, False) -> Just LT
-        (False, True) -> Just GT
+        (True, False) -> Just GT
+        (False, True) -> Just LT
         _ -> Nothing
-    where
-        

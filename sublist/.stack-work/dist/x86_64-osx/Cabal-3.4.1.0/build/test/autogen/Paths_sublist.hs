@@ -30,12 +30,12 @@ version :: Version
 version = Version [1,1,0,6] []
 bindir, libdir, dynlibdir, datadir, libexecdir, sysconfdir :: FilePath
 
-bindir     = "/Users/mhciurej/Exercism/Haskell/sublist/.stack-work/install/x86_64-osx/03ceebfcb364378399446f889e3ec8d9108e079f2c744b9976d49514dfcc8f28/9.0.2/bin"
-libdir     = "/Users/mhciurej/Exercism/Haskell/sublist/.stack-work/install/x86_64-osx/03ceebfcb364378399446f889e3ec8d9108e079f2c744b9976d49514dfcc8f28/9.0.2/lib/x86_64-osx-ghc-9.0.2/sublist-1.1.0.6-AteYelQGys3Cz3Wxn1ZW4S-test"
-dynlibdir  = "/Users/mhciurej/Exercism/Haskell/sublist/.stack-work/install/x86_64-osx/03ceebfcb364378399446f889e3ec8d9108e079f2c744b9976d49514dfcc8f28/9.0.2/lib/x86_64-osx-ghc-9.0.2"
-datadir    = "/Users/mhciurej/Exercism/Haskell/sublist/.stack-work/install/x86_64-osx/03ceebfcb364378399446f889e3ec8d9108e079f2c744b9976d49514dfcc8f28/9.0.2/share/x86_64-osx-ghc-9.0.2/sublist-1.1.0.6"
-libexecdir = "/Users/mhciurej/Exercism/Haskell/sublist/.stack-work/install/x86_64-osx/03ceebfcb364378399446f889e3ec8d9108e079f2c744b9976d49514dfcc8f28/9.0.2/libexec/x86_64-osx-ghc-9.0.2/sublist-1.1.0.6"
-sysconfdir = "/Users/mhciurej/Exercism/Haskell/sublist/.stack-work/install/x86_64-osx/03ceebfcb364378399446f889e3ec8d9108e079f2c744b9976d49514dfcc8f28/9.0.2/etc"
+bindir     = "/Users/mhciurej/Exercism/Haskell/sublist/.stack-work/install/x86_64-osx/22de66dbcede215a1fb2e9859024a18ee51b51bf188ee9adadea6f9c8179b9e8/9.0.2/bin"
+libdir     = "/Users/mhciurej/Exercism/Haskell/sublist/.stack-work/install/x86_64-osx/22de66dbcede215a1fb2e9859024a18ee51b51bf188ee9adadea6f9c8179b9e8/9.0.2/lib/x86_64-osx-ghc-9.0.2/sublist-1.1.0.6-AteYelQGys3Cz3Wxn1ZW4S-test"
+dynlibdir  = "/Users/mhciurej/Exercism/Haskell/sublist/.stack-work/install/x86_64-osx/22de66dbcede215a1fb2e9859024a18ee51b51bf188ee9adadea6f9c8179b9e8/9.0.2/lib/x86_64-osx-ghc-9.0.2"
+datadir    = "/Users/mhciurej/Exercism/Haskell/sublist/.stack-work/install/x86_64-osx/22de66dbcede215a1fb2e9859024a18ee51b51bf188ee9adadea6f9c8179b9e8/9.0.2/share/x86_64-osx-ghc-9.0.2/sublist-1.1.0.6"
+libexecdir = "/Users/mhciurej/Exercism/Haskell/sublist/.stack-work/install/x86_64-osx/22de66dbcede215a1fb2e9859024a18ee51b51bf188ee9adadea6f9c8179b9e8/9.0.2/libexec/x86_64-osx-ghc-9.0.2/sublist-1.1.0.6"
+sysconfdir = "/Users/mhciurej/Exercism/Haskell/sublist/.stack-work/install/x86_64-osx/22de66dbcede215a1fb2e9859024a18ee51b51bf188ee9adadea6f9c8179b9e8/9.0.2/etc"
 
 getBinDir, getLibDir, getDynLibDir, getDataDir, getLibexecDir, getSysconfDir :: IO FilePath
 getBinDir = catchIO (getEnv "sublist_bindir") (\_ -> return bindir)

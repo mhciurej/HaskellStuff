@@ -1,16 +1,35 @@
 module Connect (Mark(..), winner) where
-import Data.Graph (Graph)
-import Data.Map (Map)
 
-data Mark = Cross | Nought deriving (Eq, Show)
+import Data.Map (Map, insert, empty)
+import Sound.Tidal.Utils (enumerate)
+
+data Mark = Cross | Nought | Blank deriving (Eq, Show)
 type Position = (Int, Int)
-data Colour = Blank | Red | Green deriving (Eq, Show)
-data Vertex = Vertex { sign :: Char, colour :: Colour, neighbours :: [Position] } deriving (Eq, Show)
+data Vertex =
+    Vertex {
+        sign :: Mark,
+        visited :: Bool,
+        visitedNeighbours :: [Position]
+    } deriving (Eq, Show)
 data Graph = Map Position Vertex
 
-transformLine :: (Int, [Char]) -> [Vertex]
-transformLine (x, chars) =
-    foldr (\(n, char) acc -> Vertex {sign = char, colour = Blank, neighbors = []} :acc) [] (enumerate ys)
+prepareGraph :: [String] -> Graph
+prepareGraph = 
+    foldr (\(v, p) g -> insert p v g) empty .
+    concatMap (map makeVertexWithPosition) .
+    map (\(y, fields) -> map (\(x, field) -> (x, y, field)) $ map enumerate fields) .
+    enumerate
+    where
+        charToMark :: Char -> Mark
+        charToMark '.' = Blank
+        charToMark 'x' = Cross
+        charToMark 'o' = Nought
+        makeVertexWithPosition :: (Int, Int, Char) -> (Vertex, Position)
+        makeVertexWithPosition (x, y, field) =
+            (Vertex {sign = charToMark field, visited = false, visitedNeighbours = []}, (x, y))
+
+determineNeighbours x y = 
+    [(x + 1, y), ] 
 
 winner :: [String] -> Maybe Mark
 winner board = let 

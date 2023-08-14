@@ -40,6 +40,16 @@
   (major1) == 2 && (major2) <  8 || \
   (major1) == 2 && (major2) == 8 && (minor) <= 5)
 #endif /* MIN_VERSION_hspec */
+/* package stm-2.5.0.0 */
+#ifndef VERSION_stm
+#define VERSION_stm "2.5.0.0"
+#endif /* VERSION_stm */
+#ifndef MIN_VERSION_stm
+#define MIN_VERSION_stm(major1,major2,minor) (\
+  (major1) <  2 || \
+  (major1) == 2 && (major2) <  5 || \
+  (major1) == 2 && (major2) == 5 && (minor) <= 0)
+#endif /* MIN_VERSION_stm */
 
 /* tool gcc-13.0.0 */
 #ifndef TOOL_VERSION_gcc
@@ -123,7 +133,7 @@
 #endif /* MIN_TOOL_VERSION_runghc */
 
 #ifndef CURRENT_COMPONENT_ID
-#define CURRENT_COMPONENT_ID "bank-account-0.1.0.4-BcxK8kKymIKJvAvG7v0nSw-test"
+#define CURRENT_COMPONENT_ID "bank-account-0.1.0.4-CjpeevjxGRo5GHDiFMPbef-test"
 #endif /* CURRENT_COMPONENT_ID */
 #ifndef CURRENT_PACKAGE_VERSION
 #define CURRENT_PACKAGE_VERSION "0.1.0.4"

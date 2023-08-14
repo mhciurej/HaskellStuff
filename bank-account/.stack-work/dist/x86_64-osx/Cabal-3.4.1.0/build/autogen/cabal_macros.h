@@ -20,6 +20,16 @@
   (major1) == 4 && (major2) <  15 || \
   (major1) == 4 && (major2) == 15 && (minor) <= 1)
 #endif /* MIN_VERSION_base */
+/* package stm-2.5.0.0 */
+#ifndef VERSION_stm
+#define VERSION_stm "2.5.0.0"
+#endif /* VERSION_stm */
+#ifndef MIN_VERSION_stm
+#define MIN_VERSION_stm(major1,major2,minor) (\
+  (major1) <  2 || \
+  (major1) == 2 && (major2) <  5 || \
+  (major1) == 2 && (major2) == 5 && (minor) <= 0)
+#endif /* MIN_VERSION_stm */
 
 /* tool gcc-13.0.0 */
 #ifndef TOOL_VERSION_gcc
@@ -103,10 +113,10 @@
 #endif /* MIN_TOOL_VERSION_runghc */
 
 #ifndef CURRENT_PACKAGE_KEY
-#define CURRENT_PACKAGE_KEY "bank-account-0.1.0.4-5d7uOA8ydfo4X2scxurn7a"
+#define CURRENT_PACKAGE_KEY "bank-account-0.1.0.4-LteGj26fSn2KQkBFdvECGB"
 #endif /* CURRENT_packageKey */
 #ifndef CURRENT_COMPONENT_ID
-#define CURRENT_COMPONENT_ID "bank-account-0.1.0.4-5d7uOA8ydfo4X2scxurn7a"
+#define CURRENT_COMPONENT_ID "bank-account-0.1.0.4-LteGj26fSn2KQkBFdvECGB"
 #endif /* CURRENT_COMPONENT_ID */
 #ifndef CURRENT_PACKAGE_VERSION
 #define CURRENT_PACKAGE_VERSION "0.1.0.4"

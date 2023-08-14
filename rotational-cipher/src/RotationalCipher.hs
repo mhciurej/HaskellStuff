@@ -1,18 +1,12 @@
 module RotationalCipher (rotate) where
 
-import qualified Data.Map as M
-import           Data.Map (Map)
+import Data.Char (isLower, isUpper, ord, chr)
 
-rotateList :: Int -> [a] -> [a]
-rotateList = drop <> take
-
-makeCypherMap :: Int -> Map Char Char
-makeCypherMap n = let 
-    small = M.fromList . zip ['a'..'z'] . rotateList n $ ['a'..'z']
-    capital = M.fromList . zip ['A'..'Z'] . rotateList n $ ['A'..'Z']
-    numbers = M.fromList $ zip ['0'..'9'] ['0'..'9']
-    punction = M.fromList $ zip ",.?!' "    ",.?!' "
-    in small `M.union` capital `M.union` numbers `M.union` punction
+rotateChar :: Int -> Char -> Char
+rotateChar n c
+    | isLower c = chr . (ord 'a' +) . (`rem` 26) . (+(n - ord 'a')) . ord $ c
+    | isUpper c = chr . (ord 'A' +) . (`rem` 26) . (+(n - ord 'A')) . ord $ c
+    | otherwise = c
 
 rotate :: Int -> String -> String
-rotate n = map (makeCypherMap n M.!)
+rotate n = map (rotateChar n)

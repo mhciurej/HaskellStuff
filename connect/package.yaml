@@ -4,14 +4,17 @@ version: 1.1.0.6
 dependencies:
   - base
   - tidal
+  - utils
 
 library:
   exposed-modules: Connect
   source-dirs: src
   ghc-options: -Wall
-  # dependencies:
+  dependencies:
+    - tidal
   # - foo       # List here the packages you
   # - bar       # want to use in your solution.
+
 
 tests:
   test:

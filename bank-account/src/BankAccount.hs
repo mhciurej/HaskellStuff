@@ -6,18 +6,20 @@ module BankAccount
     , openAccount
     ) where
 
-data BankAccount = Closed | Value Integer
+import Control.Concurrent.STM
+
+type BankAccount = TVar Integer
 
 closeAccount :: BankAccount -> IO ()
-closeAccount account = return ()
+closeAccount _ = return ()
 
-getBalance :: BankAccount -> IO (Maybe Integer)
-getBalance Closed = return Nothing
-getBalance (Value n) = return $ Just n
+getBalance :: BankAccount -> IO Integer
+getBalance acc = do
+    readTVarIO acc
 
-incrementBalance :: BankAccount -> Integer -> IO (Maybe Integer)
-incrementBalance Closed _ = return Nothing
-incrementBalance (Value n) x = return $ Just $ n + x
+incrementBalance :: BankAccount -> Integer -> STM ()
+incrementBalance acc amount = do
+    modifyTVar acc (+amount)
 
-openAccount :: IO BankAccount
-openAccount = return $ Value 0
+openAccount :: STM ()
+openAccount = return 0

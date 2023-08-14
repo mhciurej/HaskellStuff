@@ -103,10 +103,10 @@
 #endif /* MIN_TOOL_VERSION_runghc */
 
 #ifndef CURRENT_PACKAGE_KEY
-#define CURRENT_PACKAGE_KEY "spiral-matrix-1.1.0.3-J1oULImzZJ9B6jkcjBzXLd"
+#define CURRENT_PACKAGE_KEY "spiral-matrix-1.1.0.3-KZhhxKx3QMu87AZdnWsZum"
 #endif /* CURRENT_packageKey */
 #ifndef CURRENT_COMPONENT_ID
-#define CURRENT_COMPONENT_ID "spiral-matrix-1.1.0.3-J1oULImzZJ9B6jkcjBzXLd"
+#define CURRENT_COMPONENT_ID "spiral-matrix-1.1.0.3-KZhhxKx3QMu87AZdnWsZum"
 #endif /* CURRENT_COMPONENT_ID */
 #ifndef CURRENT_PACKAGE_VERSION
 #define CURRENT_PACKAGE_VERSION "1.1.0.3"
