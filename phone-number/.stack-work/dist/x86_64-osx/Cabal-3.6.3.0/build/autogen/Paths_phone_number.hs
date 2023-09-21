@@ -43,7 +43,7 @@ getBinDir, getLibDir, getDynLibDir, getDataDir, getLibexecDir, getSysconfDir :: 
 
 bindir, libdir, dynlibdir, datadir, libexecdir, sysconfdir :: FilePath
 bindir     = "/Users/mhciurej/Exercism/Haskell/phone-number/.stack-work/install/x86_64-osx/ea7994e7d2f8f85a98ba8ad199836b814c3300bf1e6867e34e051eaeec6c46f4/9.2.7/bin"
-libdir     = "/Users/mhciurej/Exercism/Haskell/phone-number/.stack-work/install/x86_64-osx/ea7994e7d2f8f85a98ba8ad199836b814c3300bf1e6867e34e051eaeec6c46f4/9.2.7/lib/x86_64-osx-ghc-9.2.7/phone-number-1.6.1.8-2WutNH6HZB3SY0UZjXXYA"
+libdir     = "/Users/mhciurej/Exercism/Haskell/phone-number/.stack-work/install/x86_64-osx/ea7994e7d2f8f85a98ba8ad199836b814c3300bf1e6867e34e051eaeec6c46f4/9.2.7/lib/x86_64-osx-ghc-9.2.7/phone-number-1.6.1.8-Kr0GeFBjvPGEMr4umVhWIg"
 dynlibdir  = "/Users/mhciurej/Exercism/Haskell/phone-number/.stack-work/install/x86_64-osx/ea7994e7d2f8f85a98ba8ad199836b814c3300bf1e6867e34e051eaeec6c46f4/9.2.7/lib/x86_64-osx-ghc-9.2.7"
 datadir    = "/Users/mhciurej/Exercism/Haskell/phone-number/.stack-work/install/x86_64-osx/ea7994e7d2f8f85a98ba8ad199836b814c3300bf1e6867e34e051eaeec6c46f4/9.2.7/share/x86_64-osx-ghc-9.2.7/phone-number-1.6.1.8"
 libexecdir = "/Users/mhciurej/Exercism/Haskell/phone-number/.stack-work/install/x86_64-osx/ea7994e7d2f8f85a98ba8ad199836b814c3300bf1e6867e34e051eaeec6c46f4/9.2.7/libexec/x86_64-osx-ghc-9.2.7/phone-number-1.6.1.8"

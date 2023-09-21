@@ -113,10 +113,10 @@
 #endif /* MIN_TOOL_VERSION_runghc */
 
 #ifndef CURRENT_PACKAGE_KEY
-#define CURRENT_PACKAGE_KEY "bank-account-0.1.0.4-LteGj26fSn2KQkBFdvECGB"
+#define CURRENT_PACKAGE_KEY "bank-account-0.1.0.4-8d1NjH4L1sn76LLVtrHBr"
 #endif /* CURRENT_packageKey */
 #ifndef CURRENT_COMPONENT_ID
-#define CURRENT_COMPONENT_ID "bank-account-0.1.0.4-LteGj26fSn2KQkBFdvECGB"
+#define CURRENT_COMPONENT_ID "bank-account-0.1.0.4-8d1NjH4L1sn76LLVtrHBr"
 #endif /* CURRENT_COMPONENT_ID */
 #ifndef CURRENT_PACKAGE_VERSION
 #define CURRENT_PACKAGE_VERSION "0.1.0.4"

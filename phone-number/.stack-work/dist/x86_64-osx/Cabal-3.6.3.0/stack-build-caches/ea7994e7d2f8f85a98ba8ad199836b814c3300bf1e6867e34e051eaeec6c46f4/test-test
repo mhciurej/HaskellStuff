@@ -1,0 +1,12 @@
+/Users/mhciurej/.ghcup/ghc/9.2.7/lib/ghc-9.2.7/lib/x86_64-osx-ghc-9.2.7/rts-1.0.2/include/ghcversion.h:
+  hash: 33b3e1b0047b6cca48a29d69ecd33f64042e571e70747f1155f402ea75f33a9f
+/Users/mhciurej/Exercism/Haskell/phone-number/.stack-work/dist/x86_64-osx/Cabal-3.6.3.0/build/test/autogen/Paths_phone_number.hs:
+  hash: 8704eb450788ce6d85436ae30d0b7ae57615473174c88f90953d30b578360ef8
+/Users/mhciurej/Exercism/Haskell/phone-number/.stack-work/dist/x86_64-osx/Cabal-3.6.3.0/build/test/autogen/cabal_macros.h:
+  hash: 335127a2326b66f995e9a78e02e504ec02c2035e9b46cafcc77f61109ecbe24e
+/Users/mhciurej/Exercism/Haskell/phone-number/package.yaml:
+  hash: b2fadbbe41e4d2125e6798fb62b438ccdeb90333074fce0cf8365eb32a981eb2
+/Users/mhciurej/Exercism/Haskell/phone-number/phone-number.cabal:
+  hash: fa58ad2f96e9f870c80e4ebaba61069d88bb756d98ecb23928fa3e0e87a8620e
+/Users/mhciurej/Exercism/Haskell/phone-number/test/Tests.hs:
+  hash: 2ee32a3c0b688a2984d2ad3bbf821a85db58d0071a77468fd5b7a326b5a6a227

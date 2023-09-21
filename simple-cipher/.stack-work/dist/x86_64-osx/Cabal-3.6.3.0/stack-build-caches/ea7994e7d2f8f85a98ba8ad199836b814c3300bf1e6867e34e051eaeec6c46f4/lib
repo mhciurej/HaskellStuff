@@ -1,0 +1,12 @@
+/Users/mhciurej/.ghcup/ghc/9.2.7/lib/ghc-9.2.7/lib/x86_64-osx-ghc-9.2.7/rts-1.0.2/include/ghcversion.h:
+  hash: 33b3e1b0047b6cca48a29d69ecd33f64042e571e70747f1155f402ea75f33a9f
+/Users/mhciurej/Exercism/Haskell/simple-cipher/.stack-work/dist/x86_64-osx/Cabal-3.6.3.0/build/autogen/Paths_simple_cipher.hs:
+  hash: 626f5af9624e4a90392c51542fa462eba0e6cd3bd5679c03d03da895e6d5c4e2
+/Users/mhciurej/Exercism/Haskell/simple-cipher/.stack-work/dist/x86_64-osx/Cabal-3.6.3.0/build/autogen/cabal_macros.h:
+  hash: 40eda292fcd6f2f51c9f0352e95fc413eb3d7205467b7161bae4b39a04001b89
+/Users/mhciurej/Exercism/Haskell/simple-cipher/package.yaml:
+  hash: 652993815c9a65e2c136f0a112169295f03a55971048f913df08015cad28d96f
+/Users/mhciurej/Exercism/Haskell/simple-cipher/simple-cipher.cabal:
+  hash: 4bdbd9f6d1dc5eceaab69fde302038b680a52f6698da51e8c23b6b461ac6d894
+/Users/mhciurej/Exercism/Haskell/simple-cipher/src/Cipher.hs:
+  hash: e45da96e581e1986ba6ee9d7fac0312edde33e58d4dbc935ab21fb7feb15c9fa

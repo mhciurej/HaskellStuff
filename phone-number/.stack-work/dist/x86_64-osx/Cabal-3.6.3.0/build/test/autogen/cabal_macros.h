@@ -20,6 +20,16 @@
   (major1) == 4 && (major2) <  16 || \
   (major1) == 4 && (major2) == 16 && (minor) <= 4)
 #endif /* MIN_VERSION_base */
+/* package extra-1.7.13 */
+#ifndef VERSION_extra
+#define VERSION_extra "1.7.13"
+#endif /* VERSION_extra */
+#ifndef MIN_VERSION_extra
+#define MIN_VERSION_extra(major1,major2,minor) (\
+  (major1) <  1 || \
+  (major1) == 1 && (major2) <  7 || \
+  (major1) == 1 && (major2) == 7 && (minor) <= 13)
+#endif /* MIN_VERSION_extra */
 /* package hspec-2.9.7 */
 #ifndef VERSION_hspec
 #define VERSION_hspec "2.9.7"
@@ -123,7 +133,7 @@
 #endif /* MIN_TOOL_VERSION_runghc */
 
 #ifndef CURRENT_COMPONENT_ID
-#define CURRENT_COMPONENT_ID "phone-number-1.6.1.8-K7Qz4Vsnlve8m9dcJqHRpj-test"
+#define CURRENT_COMPONENT_ID "phone-number-1.6.1.8-9UQYDGxnzdl3EgiIbT2mr4-test"
 #endif /* CURRENT_COMPONENT_ID */
 #ifndef CURRENT_PACKAGE_VERSION
 #define CURRENT_PACKAGE_VERSION "1.6.1.8"

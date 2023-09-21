@@ -1,0 +1,12 @@
+/Users/mhciurej/.ghcup/ghc/9.2.7/lib/ghc-9.2.7/lib/x86_64-osx-ghc-9.2.7/rts-1.0.2/include/ghcversion.h:
+  hash: 33b3e1b0047b6cca48a29d69ecd33f64042e571e70747f1155f402ea75f33a9f
+/Users/mhciurej/Exercism/Haskell/wordy/.stack-work/dist/x86_64-osx/Cabal-3.6.3.0/build/test/autogen/Paths_wordy.hs:
+  hash: 0fd072785843c406535bcc3a3ffb77cae70092900833c9fd69cd04d0f46c5f8d
+/Users/mhciurej/Exercism/Haskell/wordy/.stack-work/dist/x86_64-osx/Cabal-3.6.3.0/build/test/autogen/cabal_macros.h:
+  hash: 6a17985288330dea5ba4273c12b784280fccf7e1f8b393563ec7555a23ae39f5
+/Users/mhciurej/Exercism/Haskell/wordy/package.yaml:
+  hash: 3b866c04d702b0e42c6a8ddbda43788c6c269485cee9bb29a374b15cf63479f4
+/Users/mhciurej/Exercism/Haskell/wordy/test/Tests.hs:
+  hash: b017c4a5c174f404845c40a0ce3a42ece6ee43536c13d3741b6729da6e73c45a
+/Users/mhciurej/Exercism/Haskell/wordy/wordy.cabal:
+  hash: 2b1fb9d43a3ababd0b472abc26df1a5544a32f7389bf8bed6df60015abdf5a3d

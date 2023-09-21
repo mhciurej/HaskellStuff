@@ -1,0 +1,12 @@
+/Users/mhciurej/.ghcup/ghc/9.0.2/lib/ghc-9.0.2/lib/x86_64-osx-ghc-9.0.2/rts-1.0.2/include/ghcversion.h:
+  hash: 3b6c0f16983344ce12525816947d892da98bc96f17a664531494f515b9356c81
+/Users/mhciurej/Exercism/Haskell/bank-account/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/test/autogen/Paths_bank_account.hs:
+  hash: 9ed29837daa239f2254aed69fa4d8fd75e0dcaa55ac2608012ea8fc2ebf7eb7b
+/Users/mhciurej/Exercism/Haskell/bank-account/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/test/autogen/cabal_macros.h:
+  hash: 66932ebeacaac65df68b185d946011b3c059ddd0f85437a9b82af2c9bc50d9ef
+/Users/mhciurej/Exercism/Haskell/bank-account/bank-account.cabal:
+  hash: 4bbba5e1efa5fc22a9dfba48f0a32017992ebb815f9a6cbe29f18b78c8d3bcf5
+/Users/mhciurej/Exercism/Haskell/bank-account/package.yaml:
+  hash: 6d56c809572f841d4f902db47ce59e933479dcc27916a6f31c7fec83b3f76a73
+/Users/mhciurej/Exercism/Haskell/bank-account/test/Tests.hs:
+  hash: 8db7556a59af43c8fc883617c949e45f90bbdf4b02a6bb052b38a07d75072517

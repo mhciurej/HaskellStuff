@@ -1,0 +1,12 @@
+/Users/mhciurej/.ghcup/ghc/9.2.7/lib/ghc-9.2.7/lib/x86_64-osx-ghc-9.2.7/rts-1.0.2/include/ghcversion.h:
+  hash: 33b3e1b0047b6cca48a29d69ecd33f64042e571e70747f1155f402ea75f33a9f
+/Users/mhciurej/Exercism/Haskell/meetup/.stack-work/dist/x86_64-osx/Cabal-3.6.3.0/build/autogen/Paths_meetup.hs:
+  hash: 51d37491ba574e2d31e03a0cbd49aaedf3e8b378880ff6b638da3383325ee183
+/Users/mhciurej/Exercism/Haskell/meetup/.stack-work/dist/x86_64-osx/Cabal-3.6.3.0/build/autogen/cabal_macros.h:
+  hash: 9538e49df44d0c10ec94317b1704c28e14407d33ea3fc5c261da13a6b2afac6b
+/Users/mhciurej/Exercism/Haskell/meetup/meetup.cabal:
+  hash: ee0444fabf0fc57b43ecf2cfe519ad6f7031f05ccaf4aa4ec92fce16a86eb3fc
+/Users/mhciurej/Exercism/Haskell/meetup/package.yaml:
+  hash: 2a45809df22ca83b86ef0e5a24096cf1922f865f0348d9f0e86f518e616f4451
+/Users/mhciurej/Exercism/Haskell/meetup/src/Meetup.hs:
+  hash: 5692b161d9ad41aabea541d9029892a429d3140603e938730119587686d9b581

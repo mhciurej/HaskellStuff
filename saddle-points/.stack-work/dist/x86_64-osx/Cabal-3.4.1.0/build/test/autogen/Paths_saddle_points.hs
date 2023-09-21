@@ -30,12 +30,12 @@ version :: Version
 version = Version [1,5,0,8] []
 bindir, libdir, dynlibdir, datadir, libexecdir, sysconfdir :: FilePath
 
-bindir     = "/Users/mhciurej/Exercism/Haskell/saddle-points/.stack-work/install/x86_64-osx/5e92bebcc582f3151ca9ed6574d8445682ec9d361e2b889cf4207213821d3080/9.0.2/bin"
-libdir     = "/Users/mhciurej/Exercism/Haskell/saddle-points/.stack-work/install/x86_64-osx/5e92bebcc582f3151ca9ed6574d8445682ec9d361e2b889cf4207213821d3080/9.0.2/lib/x86_64-osx-ghc-9.0.2/saddle-points-1.5.0.8-6drLC6ZHF2uCHKgxz5xGkz-test"
-dynlibdir  = "/Users/mhciurej/Exercism/Haskell/saddle-points/.stack-work/install/x86_64-osx/5e92bebcc582f3151ca9ed6574d8445682ec9d361e2b889cf4207213821d3080/9.0.2/lib/x86_64-osx-ghc-9.0.2"
-datadir    = "/Users/mhciurej/Exercism/Haskell/saddle-points/.stack-work/install/x86_64-osx/5e92bebcc582f3151ca9ed6574d8445682ec9d361e2b889cf4207213821d3080/9.0.2/share/x86_64-osx-ghc-9.0.2/saddle-points-1.5.0.8"
-libexecdir = "/Users/mhciurej/Exercism/Haskell/saddle-points/.stack-work/install/x86_64-osx/5e92bebcc582f3151ca9ed6574d8445682ec9d361e2b889cf4207213821d3080/9.0.2/libexec/x86_64-osx-ghc-9.0.2/saddle-points-1.5.0.8"
-sysconfdir = "/Users/mhciurej/Exercism/Haskell/saddle-points/.stack-work/install/x86_64-osx/5e92bebcc582f3151ca9ed6574d8445682ec9d361e2b889cf4207213821d3080/9.0.2/etc"
+bindir     = "/Users/mhciurej/Exercism/Haskell/saddle-points/.stack-work/install/x86_64-osx/22de66dbcede215a1fb2e9859024a18ee51b51bf188ee9adadea6f9c8179b9e8/9.0.2/bin"
+libdir     = "/Users/mhciurej/Exercism/Haskell/saddle-points/.stack-work/install/x86_64-osx/22de66dbcede215a1fb2e9859024a18ee51b51bf188ee9adadea6f9c8179b9e8/9.0.2/lib/x86_64-osx-ghc-9.0.2/saddle-points-1.5.0.8-6drLC6ZHF2uCHKgxz5xGkz-test"
+dynlibdir  = "/Users/mhciurej/Exercism/Haskell/saddle-points/.stack-work/install/x86_64-osx/22de66dbcede215a1fb2e9859024a18ee51b51bf188ee9adadea6f9c8179b9e8/9.0.2/lib/x86_64-osx-ghc-9.0.2"
+datadir    = "/Users/mhciurej/Exercism/Haskell/saddle-points/.stack-work/install/x86_64-osx/22de66dbcede215a1fb2e9859024a18ee51b51bf188ee9adadea6f9c8179b9e8/9.0.2/share/x86_64-osx-ghc-9.0.2/saddle-points-1.5.0.8"
+libexecdir = "/Users/mhciurej/Exercism/Haskell/saddle-points/.stack-work/install/x86_64-osx/22de66dbcede215a1fb2e9859024a18ee51b51bf188ee9adadea6f9c8179b9e8/9.0.2/libexec/x86_64-osx-ghc-9.0.2/saddle-points-1.5.0.8"
+sysconfdir = "/Users/mhciurej/Exercism/Haskell/saddle-points/.stack-work/install/x86_64-osx/22de66dbcede215a1fb2e9859024a18ee51b51bf188ee9adadea6f9c8179b9e8/9.0.2/etc"
 
 getBinDir, getLibDir, getDynLibDir, getDataDir, getLibexecDir, getSysconfDir :: IO FilePath
 getBinDir = catchIO (getEnv "saddle_points_bindir") (\_ -> return bindir)

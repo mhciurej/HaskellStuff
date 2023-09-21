@@ -1,0 +1,12 @@
+/Users/mhciurej/.ghcup/ghc/9.2.7/lib/ghc-9.2.7/lib/x86_64-osx-ghc-9.2.7/rts-1.0.2/include/ghcversion.h:
+  hash: 33b3e1b0047b6cca48a29d69ecd33f64042e571e70747f1155f402ea75f33a9f
+? /Users/mhciurej/Exercism/Haskell/rotational-cipher/.stack-work/dist/x86_64-osx/Cabal-3.6.3.0/build/autogen/Paths_rotational_cipher.hs
+: hash: 908753d20e797e45d69a5a5a9e2a10a9e2a97a03212d32836575d2ebd0527a9a
+/Users/mhciurej/Exercism/Haskell/rotational-cipher/.stack-work/dist/x86_64-osx/Cabal-3.6.3.0/build/autogen/cabal_macros.h:
+  hash: 6c68bf4073374d8d7138850b8877b345a65e3bfd8c8257ea0b5928f5f946f68d
+/Users/mhciurej/Exercism/Haskell/rotational-cipher/package.yaml:
+  hash: 96053152a887a8aa10a0aa1abde926f4065ca2a77e79f562cb60ee5a9ee10859
+/Users/mhciurej/Exercism/Haskell/rotational-cipher/rotational-cipher.cabal:
+  hash: 6b09230f3d5feb3eb526db99c831aec41bf55b8ac5d3bca8ecf412aaf14b30b2
+/Users/mhciurej/Exercism/Haskell/rotational-cipher/src/RotationalCipher.hs:
+  hash: 455359eef58aff8676aaa3b16529810931bf79129d2f769a4feeacf259737989

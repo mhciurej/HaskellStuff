@@ -3,6 +3,8 @@ version: 1.6.1.8
 
 dependencies:
   - base
+  - extra
+  - stm
 
 library:
   exposed-modules: Phone

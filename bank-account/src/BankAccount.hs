@@ -8,18 +8,21 @@ module BankAccount
 
 import Control.Concurrent.STM
 
-type BankAccount = TVar Integer
+type BankAccount = TVar (Maybe Integer)
+
+--to review
 
 closeAccount :: BankAccount -> IO ()
-closeAccount _ = return ()
+closeAccount account = atomically $ do
+    writeTVar account Nothing
 
-getBalance :: BankAccount -> IO Integer
-getBalance acc = do
-    readTVarIO acc
+getBalance :: BankAccount -> IO (Maybe Integer)
+getBalance = readTVarIO
 
-incrementBalance :: BankAccount -> Integer -> STM ()
-incrementBalance acc amount = do
-    modifyTVar acc (+amount)
+incrementBalance :: BankAccount -> Integer -> IO (Maybe Integer)
+incrementBalance account amount = atomically $ do
+    modifyTVar' account ((amount+) <$>)
+    readTVar account
 
-openAccount :: STM ()
-openAccount = return 0
+openAccount :: IO BankAccount
+openAccount = newTVarIO (Just 0)

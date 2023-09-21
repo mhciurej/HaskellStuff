@@ -1,0 +1,12 @@
+/Users/mhciurej/.ghcup/ghc/9.2.7/lib/ghc-9.2.7/lib/x86_64-osx-ghc-9.2.7/rts-1.0.2/include/ghcversion.h:
+  hash: 33b3e1b0047b6cca48a29d69ecd33f64042e571e70747f1155f402ea75f33a9f
+/Users/mhciurej/Exercism/Haskell/bowling/.stack-work/dist/x86_64-osx/Cabal-3.6.3.0/build/autogen/Paths_bowling.hs:
+  hash: c5c073b0be35a9bfea0dc36bcc2943842fe0eae75d4faab2534e8ebf30861b46
+/Users/mhciurej/Exercism/Haskell/bowling/.stack-work/dist/x86_64-osx/Cabal-3.6.3.0/build/autogen/cabal_macros.h:
+  hash: a57ada5680936f0eafbdc40b277f9e364f5900e0272c66c5a25411e14121288d
+/Users/mhciurej/Exercism/Haskell/bowling/bowling.cabal:
+  hash: 8de5e6bc9c6ccb03842a0080523ae28bbab4c1361a818b0579b10c6b853e005c
+/Users/mhciurej/Exercism/Haskell/bowling/package.yaml:
+  hash: c9ebb7451d00367301809d094fa153676f859c01a3e700c877f6bd3610816dd0
+/Users/mhciurej/Exercism/Haskell/bowling/src/Bowling.hs:
+  hash: f98803f3831fc51f1dcd4a62e84090eb0cffc695d9d2883ad492c57fe7ddce67

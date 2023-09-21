@@ -42,12 +42,12 @@ getBinDir, getLibDir, getDynLibDir, getDataDir, getLibexecDir, getSysconfDir :: 
 
 
 bindir, libdir, dynlibdir, datadir, libexecdir, sysconfdir :: FilePath
-bindir     = "/Users/mhciurej/Exercism/Haskell/custom-set/.stack-work/install/x86_64-osx/11728b65b2582211abbe53994df22cfff18347a4d86ad0aa489a9b599c7cbf0a/9.2.7/bin"
-libdir     = "/Users/mhciurej/Exercism/Haskell/custom-set/.stack-work/install/x86_64-osx/11728b65b2582211abbe53994df22cfff18347a4d86ad0aa489a9b599c7cbf0a/9.2.7/lib/x86_64-osx-ghc-9.2.7/custom-set-1.3.0.6-5T58qN4cdM3BQO71peLsaW"
-dynlibdir  = "/Users/mhciurej/Exercism/Haskell/custom-set/.stack-work/install/x86_64-osx/11728b65b2582211abbe53994df22cfff18347a4d86ad0aa489a9b599c7cbf0a/9.2.7/lib/x86_64-osx-ghc-9.2.7"
-datadir    = "/Users/mhciurej/Exercism/Haskell/custom-set/.stack-work/install/x86_64-osx/11728b65b2582211abbe53994df22cfff18347a4d86ad0aa489a9b599c7cbf0a/9.2.7/share/x86_64-osx-ghc-9.2.7/custom-set-1.3.0.6"
-libexecdir = "/Users/mhciurej/Exercism/Haskell/custom-set/.stack-work/install/x86_64-osx/11728b65b2582211abbe53994df22cfff18347a4d86ad0aa489a9b599c7cbf0a/9.2.7/libexec/x86_64-osx-ghc-9.2.7/custom-set-1.3.0.6"
-sysconfdir = "/Users/mhciurej/Exercism/Haskell/custom-set/.stack-work/install/x86_64-osx/11728b65b2582211abbe53994df22cfff18347a4d86ad0aa489a9b599c7cbf0a/9.2.7/etc"
+bindir     = "/Users/mhciurej/Exercism/Haskell/custom-set/.stack-work/install/x86_64-osx/ea7994e7d2f8f85a98ba8ad199836b814c3300bf1e6867e34e051eaeec6c46f4/9.2.7/bin"
+libdir     = "/Users/mhciurej/Exercism/Haskell/custom-set/.stack-work/install/x86_64-osx/ea7994e7d2f8f85a98ba8ad199836b814c3300bf1e6867e34e051eaeec6c46f4/9.2.7/lib/x86_64-osx-ghc-9.2.7/custom-set-1.3.0.6-5T58qN4cdM3BQO71peLsaW"
+dynlibdir  = "/Users/mhciurej/Exercism/Haskell/custom-set/.stack-work/install/x86_64-osx/ea7994e7d2f8f85a98ba8ad199836b814c3300bf1e6867e34e051eaeec6c46f4/9.2.7/lib/x86_64-osx-ghc-9.2.7"
+datadir    = "/Users/mhciurej/Exercism/Haskell/custom-set/.stack-work/install/x86_64-osx/ea7994e7d2f8f85a98ba8ad199836b814c3300bf1e6867e34e051eaeec6c46f4/9.2.7/share/x86_64-osx-ghc-9.2.7/custom-set-1.3.0.6"
+libexecdir = "/Users/mhciurej/Exercism/Haskell/custom-set/.stack-work/install/x86_64-osx/ea7994e7d2f8f85a98ba8ad199836b814c3300bf1e6867e34e051eaeec6c46f4/9.2.7/libexec/x86_64-osx-ghc-9.2.7/custom-set-1.3.0.6"
+sysconfdir = "/Users/mhciurej/Exercism/Haskell/custom-set/.stack-work/install/x86_64-osx/ea7994e7d2f8f85a98ba8ad199836b814c3300bf1e6867e34e051eaeec6c46f4/9.2.7/etc"
 
 getBinDir     = catchIO (getEnv "custom_set_bindir")     (\_ -> return bindir)
 getLibDir     = catchIO (getEnv "custom_set_libdir")     (\_ -> return libdir)

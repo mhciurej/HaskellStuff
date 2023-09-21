@@ -113,10 +113,10 @@
 #endif /* MIN_TOOL_VERSION_runghc */
 
 #ifndef CURRENT_PACKAGE_KEY
-#define CURRENT_PACKAGE_KEY "saddle-points-1.5.0.8-FF8tilyFm427keHhm5Vo2"
+#define CURRENT_PACKAGE_KEY "saddle-points-1.5.0.8-E0SJ9MitYpj2CSeBth092f"
 #endif /* CURRENT_packageKey */
 #ifndef CURRENT_COMPONENT_ID
-#define CURRENT_COMPONENT_ID "saddle-points-1.5.0.8-FF8tilyFm427keHhm5Vo2"
+#define CURRENT_COMPONENT_ID "saddle-points-1.5.0.8-E0SJ9MitYpj2CSeBth092f"
 #endif /* CURRENT_COMPONENT_ID */
 #ifndef CURRENT_PACKAGE_VERSION
 #define CURRENT_PACKAGE_VERSION "1.5.0.8"

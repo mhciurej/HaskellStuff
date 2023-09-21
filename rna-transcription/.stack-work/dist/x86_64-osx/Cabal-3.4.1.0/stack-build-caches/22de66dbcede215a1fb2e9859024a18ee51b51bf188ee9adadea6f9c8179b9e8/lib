@@ -1,0 +1,12 @@
+/Users/mhciurej/.ghcup/ghc/9.0.2/lib/ghc-9.0.2/lib/x86_64-osx-ghc-9.0.2/rts-1.0.2/include/ghcversion.h:
+  hash: 3b6c0f16983344ce12525816947d892da98bc96f17a664531494f515b9356c81
+? /Users/mhciurej/Exercism/Haskell/rna-transcription/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/autogen/Paths_rna_transcription.hs
+: hash: d64da74979846cbdc13f240ea204f84bedfcc8eb25254b5902b8d67f81410752
+/Users/mhciurej/Exercism/Haskell/rna-transcription/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/autogen/cabal_macros.h:
+  hash: 319fe986596098e751f69e617f75b4a31bec3d2f2a2279b9d33fe0c448f35992
+/Users/mhciurej/Exercism/Haskell/rna-transcription/package.yaml:
+  hash: 2766671ccd85c1d682ec62ec3163fcf738c20004e444c5dceb6a3207c15c6dca
+/Users/mhciurej/Exercism/Haskell/rna-transcription/rna-transcription.cabal:
+  hash: fbb6b7d314df3e7381c73bf49c8fafc6c2b3c2e83314d19c5bc27b216aad62d3
+/Users/mhciurej/Exercism/Haskell/rna-transcription/src/DNA.hs:
+  hash: bd6d4320ba21955c5b2927cbaf689831b2d956325cc8fc453a4aae0240906449

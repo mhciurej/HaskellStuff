@@ -10,6 +10,16 @@
   (major1) == 1 && (major2) <  2 || \
   (major1) == 1 && (major2) == 2 && (minor) <= 0)
 #endif /* MIN_VERSION_bowling */
+/* package MissingH-1.5.0.1 */
+#ifndef VERSION_MissingH
+#define VERSION_MissingH "1.5.0.1"
+#endif /* VERSION_MissingH */
+#ifndef MIN_VERSION_MissingH
+#define MIN_VERSION_MissingH(major1,major2,minor) (\
+  (major1) <  1 || \
+  (major1) == 1 && (major2) <  5 || \
+  (major1) == 1 && (major2) == 5 && (minor) <= 0)
+#endif /* MIN_VERSION_MissingH */
 /* package base-4.16.4.0 */
 #ifndef VERSION_base
 #define VERSION_base "4.16.4.0"
@@ -103,10 +113,10 @@
 #endif /* MIN_TOOL_VERSION_runghc */
 
 #ifndef CURRENT_PACKAGE_KEY
-#define CURRENT_PACKAGE_KEY "bowling-1.2.0.7-8W4EjSE8JSs17qwhlC0mEn"
+#define CURRENT_PACKAGE_KEY "bowling-1.2.0.7-Il15xJGZaMn17hlH4DkRfe"
 #endif /* CURRENT_packageKey */
 #ifndef CURRENT_COMPONENT_ID
-#define CURRENT_COMPONENT_ID "bowling-1.2.0.7-8W4EjSE8JSs17qwhlC0mEn"
+#define CURRENT_COMPONENT_ID "bowling-1.2.0.7-Il15xJGZaMn17hlH4DkRfe"
 #endif /* CURRENT_COMPONENT_ID */
 #ifndef CURRENT_PACKAGE_VERSION
 #define CURRENT_PACKAGE_VERSION "1.2.0.7"

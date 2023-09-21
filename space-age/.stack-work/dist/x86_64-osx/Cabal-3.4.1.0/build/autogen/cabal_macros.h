@@ -103,10 +103,10 @@
 #endif /* MIN_TOOL_VERSION_runghc */
 
 #ifndef CURRENT_PACKAGE_KEY
-#define CURRENT_PACKAGE_KEY "space-age-1.2.0.6-GEoXD3xqUAV3zYNaRCPnby"
+#define CURRENT_PACKAGE_KEY "space-age-1.2.0.6-8MuyK89a2l8Wnwy9uTVh4"
 #endif /* CURRENT_packageKey */
 #ifndef CURRENT_COMPONENT_ID
-#define CURRENT_COMPONENT_ID "space-age-1.2.0.6-GEoXD3xqUAV3zYNaRCPnby"
+#define CURRENT_COMPONENT_ID "space-age-1.2.0.6-8MuyK89a2l8Wnwy9uTVh4"
 #endif /* CURRENT_COMPONENT_ID */
 #ifndef CURRENT_PACKAGE_VERSION
 #define CURRENT_PACKAGE_VERSION "1.2.0.6"

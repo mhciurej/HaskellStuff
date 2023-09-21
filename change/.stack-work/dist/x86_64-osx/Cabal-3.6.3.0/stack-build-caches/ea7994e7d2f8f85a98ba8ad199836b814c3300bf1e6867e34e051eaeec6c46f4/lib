@@ -1,0 +1,12 @@
+/Users/mhciurej/.ghcup/ghc/9.2.7/lib/ghc-9.2.7/lib/x86_64-osx-ghc-9.2.7/rts-1.0.2/include/ghcversion.h:
+  hash: 33b3e1b0047b6cca48a29d69ecd33f64042e571e70747f1155f402ea75f33a9f
+/Users/mhciurej/Exercism/Haskell/change/.stack-work/dist/x86_64-osx/Cabal-3.6.3.0/build/autogen/Paths_change.hs:
+  hash: 02ab8be683ee107faa0e13c84aebd0707397e3f676c9d9bdfaacaf4e134e667b
+/Users/mhciurej/Exercism/Haskell/change/.stack-work/dist/x86_64-osx/Cabal-3.6.3.0/build/autogen/cabal_macros.h:
+  hash: ce2a11daaf1d0b30e29945ea34b35228264f60861b6ec2f739ee04659d5b2f02
+/Users/mhciurej/Exercism/Haskell/change/change.cabal:
+  hash: b24ffcb194f2c6d2f2ac53a18e05edafaa2c73030d4f9cb1fa1df93f3a13c773
+/Users/mhciurej/Exercism/Haskell/change/package.yaml:
+  hash: 7ea878509ee8bcc17f29f41534d1e5a06061c3a310532eada9115bc39e4f7977
+/Users/mhciurej/Exercism/Haskell/change/src/Change.hs:
+  hash: c3a2628b01ecfb01ff873b8567afe7702dbdd584b593f2ae9365c7ff4ce8322c

@@ -1,0 +1,12 @@
+/Users/mhciurej/.ghcup/ghc/9.2.7/lib/ghc-9.2.7/lib/x86_64-osx-ghc-9.2.7/rts-1.0.2/include/ghcversion.h:
+  hash: 33b3e1b0047b6cca48a29d69ecd33f64042e571e70747f1155f402ea75f33a9f
+? /Users/mhciurej/Exercism/Haskell/parallel-letter-frequency/.stack-work/dist/x86_64-osx/Cabal-3.6.3.0/build/autogen/Paths_parallel_letter_frequency.hs
+: hash: 7c9ef875c0db93930e7772f686b6713d5972ada8aa6f2773a6790e12a457ae82
+? /Users/mhciurej/Exercism/Haskell/parallel-letter-frequency/.stack-work/dist/x86_64-osx/Cabal-3.6.3.0/build/autogen/cabal_macros.h
+: hash: 8fba45fe601e4d4ad123738d2624c909b9cf48e4f34533cdd26d004fa8b76f3a
+/Users/mhciurej/Exercism/Haskell/parallel-letter-frequency/package.yaml:
+  hash: 1028a5e8fd1666e776ccf2687072b304194fe178c8338e6e21a5b27746fc9b4f
+/Users/mhciurej/Exercism/Haskell/parallel-letter-frequency/parallel-letter-frequency.cabal:
+  hash: 2c14e02f1232c524c50ead5d4120490a5932230d7d48a729aa7dba5bd8df46ed
+/Users/mhciurej/Exercism/Haskell/parallel-letter-frequency/src/Frequency.hs:
+  hash: 05b975109b6edfc022706006cd3b53ca75fb9883e11723b29ed7f677b5800c54

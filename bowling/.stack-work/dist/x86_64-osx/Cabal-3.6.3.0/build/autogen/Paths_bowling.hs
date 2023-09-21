@@ -42,12 +42,12 @@ getBinDir, getLibDir, getDynLibDir, getDataDir, getLibexecDir, getSysconfDir :: 
 
 
 bindir, libdir, dynlibdir, datadir, libexecdir, sysconfdir :: FilePath
-bindir     = "/Users/mhciurej/Exercism/Haskell/bowling/.stack-work/install/x86_64-osx/11728b65b2582211abbe53994df22cfff18347a4d86ad0aa489a9b599c7cbf0a/9.2.7/bin"
-libdir     = "/Users/mhciurej/Exercism/Haskell/bowling/.stack-work/install/x86_64-osx/11728b65b2582211abbe53994df22cfff18347a4d86ad0aa489a9b599c7cbf0a/9.2.7/lib/x86_64-osx-ghc-9.2.7/bowling-1.2.0.7-8W4EjSE8JSs17qwhlC0mEn"
-dynlibdir  = "/Users/mhciurej/Exercism/Haskell/bowling/.stack-work/install/x86_64-osx/11728b65b2582211abbe53994df22cfff18347a4d86ad0aa489a9b599c7cbf0a/9.2.7/lib/x86_64-osx-ghc-9.2.7"
-datadir    = "/Users/mhciurej/Exercism/Haskell/bowling/.stack-work/install/x86_64-osx/11728b65b2582211abbe53994df22cfff18347a4d86ad0aa489a9b599c7cbf0a/9.2.7/share/x86_64-osx-ghc-9.2.7/bowling-1.2.0.7"
-libexecdir = "/Users/mhciurej/Exercism/Haskell/bowling/.stack-work/install/x86_64-osx/11728b65b2582211abbe53994df22cfff18347a4d86ad0aa489a9b599c7cbf0a/9.2.7/libexec/x86_64-osx-ghc-9.2.7/bowling-1.2.0.7"
-sysconfdir = "/Users/mhciurej/Exercism/Haskell/bowling/.stack-work/install/x86_64-osx/11728b65b2582211abbe53994df22cfff18347a4d86ad0aa489a9b599c7cbf0a/9.2.7/etc"
+bindir     = "/Users/mhciurej/Exercism/Haskell/bowling/.stack-work/install/x86_64-osx/ea7994e7d2f8f85a98ba8ad199836b814c3300bf1e6867e34e051eaeec6c46f4/9.2.7/bin"
+libdir     = "/Users/mhciurej/Exercism/Haskell/bowling/.stack-work/install/x86_64-osx/ea7994e7d2f8f85a98ba8ad199836b814c3300bf1e6867e34e051eaeec6c46f4/9.2.7/lib/x86_64-osx-ghc-9.2.7/bowling-1.2.0.7-Il15xJGZaMn17hlH4DkRfe"
+dynlibdir  = "/Users/mhciurej/Exercism/Haskell/bowling/.stack-work/install/x86_64-osx/ea7994e7d2f8f85a98ba8ad199836b814c3300bf1e6867e34e051eaeec6c46f4/9.2.7/lib/x86_64-osx-ghc-9.2.7"
+datadir    = "/Users/mhciurej/Exercism/Haskell/bowling/.stack-work/install/x86_64-osx/ea7994e7d2f8f85a98ba8ad199836b814c3300bf1e6867e34e051eaeec6c46f4/9.2.7/share/x86_64-osx-ghc-9.2.7/bowling-1.2.0.7"
+libexecdir = "/Users/mhciurej/Exercism/Haskell/bowling/.stack-work/install/x86_64-osx/ea7994e7d2f8f85a98ba8ad199836b814c3300bf1e6867e34e051eaeec6c46f4/9.2.7/libexec/x86_64-osx-ghc-9.2.7/bowling-1.2.0.7"
+sysconfdir = "/Users/mhciurej/Exercism/Haskell/bowling/.stack-work/install/x86_64-osx/ea7994e7d2f8f85a98ba8ad199836b814c3300bf1e6867e34e051eaeec6c46f4/9.2.7/etc"
 
 getBinDir     = catchIO (getEnv "bowling_bindir")     (\_ -> return bindir)
 getLibDir     = catchIO (getEnv "bowling_libdir")     (\_ -> return libdir)

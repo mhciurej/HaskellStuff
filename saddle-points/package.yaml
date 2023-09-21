@@ -4,6 +4,7 @@ version: 1.5.0.8
 dependencies:
   - array
   - base
+  - split
 
 library:
   exposed-modules: Matrix

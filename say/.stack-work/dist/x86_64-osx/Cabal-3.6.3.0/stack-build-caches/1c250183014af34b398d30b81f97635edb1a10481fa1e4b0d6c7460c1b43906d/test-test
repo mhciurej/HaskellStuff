@@ -1,0 +1,12 @@
+/Users/mhciurej/.ghcup/ghc/9.2.7/lib/ghc-9.2.7/lib/x86_64-osx-ghc-9.2.7/rts-1.0.2/include/ghcversion.h:
+  hash: 33b3e1b0047b6cca48a29d69ecd33f64042e571e70747f1155f402ea75f33a9f
+/Users/mhciurej/Exercism/Haskell/say/.stack-work/dist/x86_64-osx/Cabal-3.6.3.0/build/test/autogen/Paths_say.hs:
+  hash: 79e260d3b3fb096d5885f1d5aa99bb7e51ec41e9f62b1e5875164fd470198ff0
+/Users/mhciurej/Exercism/Haskell/say/.stack-work/dist/x86_64-osx/Cabal-3.6.3.0/build/test/autogen/cabal_macros.h:
+  hash: 1c1065c8ac382dd9f37caac9e51d26f3a73cfeaed196c90f880888ebe0a6db6f
+/Users/mhciurej/Exercism/Haskell/say/package.yaml:
+  hash: 52bfd50bcaa056014e2c240d008e8930d139c4605ef35a6b4f2009259b1c0e88
+/Users/mhciurej/Exercism/Haskell/say/say.cabal:
+  hash: f7ec1284815cff077f346decc4d21c54b726b8164350c5e085bda00d0ba7dc42
+/Users/mhciurej/Exercism/Haskell/say/test/Tests.hs:
+  hash: cbea4058920e6021e6f98f4adcedde6440bde4678e3ba3b457ce8134cf64f2a9

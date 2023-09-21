@@ -1,0 +1,12 @@
+/Users/mhciurej/.ghcup/ghc/9.2.7/lib/ghc-9.2.7/lib/x86_64-osx-ghc-9.2.7/rts-1.0.2/include/ghcversion.h:
+  hash: 33b3e1b0047b6cca48a29d69ecd33f64042e571e70747f1155f402ea75f33a9f
+? /Users/mhciurej/Exercism/Haskell/kindergarten-garden/.stack-work/dist/x86_64-osx/Cabal-3.6.3.0/build/test/autogen/Paths_kindergarten_garden.hs
+: hash: 6bc8b5e9549f17f7c67bd0a8415ae0a59bc0d6b198661146a37e748f3642407f
+/Users/mhciurej/Exercism/Haskell/kindergarten-garden/.stack-work/dist/x86_64-osx/Cabal-3.6.3.0/build/test/autogen/cabal_macros.h:
+  hash: a3037574e78612a3e6ae11ee0a6e26a18a4132986bda648ee08d79f9188a0aa0
+/Users/mhciurej/Exercism/Haskell/kindergarten-garden/kindergarten-garden.cabal:
+  hash: 0ef0f1d3506bf95c1553d63b273f77969d8e5525aab8ae185886b76a181e72c5
+/Users/mhciurej/Exercism/Haskell/kindergarten-garden/package.yaml:
+  hash: bfdce5bb330559e64e3fd12e08b229c21c70fcb5d6c24751c2e81fd27bbfd209
+/Users/mhciurej/Exercism/Haskell/kindergarten-garden/test/Tests.hs:
+  hash: 63fdcac8fff990b24aab8957a178875e6f292d7b167cf267121ca58d7c982582

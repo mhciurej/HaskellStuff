@@ -1,0 +1,12 @@
+/Users/mhciurej/.ghcup/ghc/9.0.2/lib/ghc-9.0.2/lib/x86_64-osx-ghc-9.0.2/rts-1.0.2/include/ghcversion.h:
+  hash: 3b6c0f16983344ce12525816947d892da98bc96f17a664531494f515b9356c81
+? /Users/mhciurej/Exercism/Haskell/resistor-color-duo/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/test/autogen/Paths_resistor_color_duo.hs
+: hash: 586e14215bb242c7eabb629ff3825cc19b68a7573c501ba8d97b682bae57ae76
+/Users/mhciurej/Exercism/Haskell/resistor-color-duo/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/test/autogen/cabal_macros.h:
+  hash: 1cf4ea5555840b0a27d1dbf011068933638274fdef999baad37477a5252613a6
+/Users/mhciurej/Exercism/Haskell/resistor-color-duo/package.yaml:
+  hash: 115420ef86f9971012cb88b81ef8a607151d57dbe2d1416da5efd105c5e26b8a
+/Users/mhciurej/Exercism/Haskell/resistor-color-duo/resistor-color-duo.cabal:
+  hash: 8288f30317ab66ddb7248b7e03411cae2ab469a93bdadd984b6a856b2cfff3dc
+/Users/mhciurej/Exercism/Haskell/resistor-color-duo/test/Tests.hs:
+  hash: 626cfff3ab45744e3c7487bab2a1b13ec9a91109ff5421530df60b44934d125e

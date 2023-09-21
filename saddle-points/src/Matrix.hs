@@ -1,37 +1,41 @@
 module Matrix (saddlePoints) where
 
-import Data.Array (Array)
-import Data.Array (bounds, (!))
+import Data.Array ( Array, bounds, (!), indices, Ix (range) )
 import Data.Ix (inRange)
+import Data.List (transpose)
+import Data.List.Split (chunksOf)
 
-isInBounds :: Array i e -> i -> Bool
+
+isInBounds :: Ix i => Array i e -> i -> Bool
 isInBounds arr = inRange (bounds arr)
-    -- let
-    -- ((a, b), (c, d)) = bounds arr
-    -- (e, f) = ind
-    -- in (a <= e && e <= c) && (b <= f && f <= d)
 
-readValueFromArray :: Array i e -> i -> Maybe e
+readValueFromArray :: Ix i => Array i e -> i -> Maybe e
 readValueFromArray arr ind = if isInBounds arr ind then Just (arr ! ind) else Nothing
 
-isPeak :: Ord a => [Maybe a] -> Bool
+isPeak :: (Ord a, Show a) => [Maybe a] -> Bool
 isPeak [Nothing, _, Nothing] = True
 isPeak [Nothing, Just x, Just y] = x > y
 isPeak [Just y, Just x, Nothing] = y < x
 isPeak [Just a, Just x, Just b] = a < x && x > b
+isPeak whatever = error ("Is Peak cannot handle " ++ show whatever)
 
-isDeep :: Ord a => [Maybe a] -> Bool
+isDeep :: (Ord a, Show a) => [Maybe a] -> Bool
 isDeep [Nothing, _, Nothing] = True
 isDeep [Nothing, Just x, Just y] = x < y
 isDeep [Just y, Just x, Nothing] = y > x
 isDeep [Just a, Just x, Just b] = a > x && x < b
+isDeep whatever = error ("Is Peak cannot handle " ++ show whatever)
 
-isSadlePoint :: Array i e -> i -> Bool
+isSadlePoint :: (Ord e, Show e) => Array (Int, Int) e -> (Int, Int) -> Bool
 isSadlePoint arr (x, y) = let
-    temp = readValueFromArray arr
-    row = [temp (x - 1, y), temp (x, y), temp (x + 1, y)]
-    column = [temp (x, y - 1), temp (x, y), temp (x + 1, y)]
+    ((x0, y0), (x1, y1)) = bounds arr
+    row = map (arr !) $ range ((x, y0), (x, y1))
+    column = map (arr !) $ range ((x0, y), (x1, y))
     in isDeep column && isPeak row
 
-saddlePoints :: Array i e -> [i]
-saddlePoints matrix = filter (isSadlePoint arr) $ map fst $  assocs arr
+saddlePoints :: (Ord e, Show e) => Array (Int, Int) e -> [(Int, Int)]
+saddlePoints matrix =  . chunksOf rows . indices $ matrix
+    where
+        ((x0, y0), (x1, y1)) = bounds matrix
+        rows = y1 - y0
+        columns = x1 - x0

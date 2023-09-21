@@ -1,0 +1,12 @@
+/Users/mhciurej/.ghcup/ghc/9.0.2/lib/ghc-9.0.2/lib/x86_64-osx-ghc-9.0.2/rts-1.0.2/include/ghcversion.h:
+  hash: 3b6c0f16983344ce12525816947d892da98bc96f17a664531494f515b9356c81
+/Users/mhciurej/Exercism/Haskell/nth-prime/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/test/autogen/Paths_nth_prime.hs:
+  hash: 595cbef1899f90961e2908da5afa970d40c3640ae931a9a8601556b5b075e395
+/Users/mhciurej/Exercism/Haskell/nth-prime/.stack-work/dist/x86_64-osx/Cabal-3.4.1.0/build/test/autogen/cabal_macros.h:
+  hash: 5fa43735204de9fb9c39763999910c5b4c6b483a361e95c81bdf4c06d3610030
+/Users/mhciurej/Exercism/Haskell/nth-prime/nth-prime.cabal:
+  hash: ecff33ae4f6ef603269f5ffb8bac8b8c80e10f3184cb1a6c0fe5f1f8a6dcf619
+/Users/mhciurej/Exercism/Haskell/nth-prime/package.yaml:
+  hash: f71e66482b63e7b02da18352f3205af099bf5f586fef98ebc638800357780760
+/Users/mhciurej/Exercism/Haskell/nth-prime/test/Tests.hs:
+  hash: 582e5213e37de604b58b117b186ce63e1bce7e9a670a523df28115369fb8acfa
